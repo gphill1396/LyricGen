@@ -1,409 +1,409 @@
-{'Tip': "If you're not making, you're editing. If you're not editing, you're researching. If you're not researching, you're preparing. if you're not preparing, you're fueling the soul.", 'Date': '12/19/2020', 'Topic': 'Tips'}
-{'Tip': 'Increased Creativity', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': "Reverse reverb can be a really cool effect and it's not hard to do. Simply reverse a sound. Apply 100% wet reverb to the reverse sound. Render the resulting sound. Re-Import the sound as a layer to your original sound.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'You want a riser before every snare or just have a snare or any sound that starts before the hit? Use the latency compansation to make it fit right in without cutting to the attack or moving every single midi note.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'Use a master Ableton Live performance set (Everything in one set)', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': "So stop playing for that energy. Ignore it, it's not real. Instead, play for the little fan inside you, the guy or girl who is the reason you became a musician in the first place. Play the whole show for THAT fan, and it will be an awesome show every time. And the audience will follow your lead", 'Date': '12/17/2020', 'Topic': 'Tips'}
-{'Tip': 'Digital is manufactured', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Sends and returns are great to use on for common effects. Reverbs and delays especially. Make sure any effect on a return is 100% wet.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Convolution Reverb on drums.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Inside of the song (Bridge) makes the outside sound good.', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'start off by writing anything to get the brain flowing, and it didn’t have to rhyme. - J Cole', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'MEmorize words and phrases that rhyme.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'If you are experiencing anxiety you need to either lower the challenge level or increase your skills. If you are bored, you need to challenge yourself more.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'To avoid lyrical monotony, live life', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Mix = Tone through Balance', 'Date': '11/29/2020', 'Topic': 'Tips'}
-{'Tip': 'Steal and replace - instead of agonizing over a kick sound, just sample one from a sample CD or record and move on. You can replace it with your own sound later, but don;t lose your songwriting momentum doing sound design.', 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'Sidechaining Kick to Bass helps with frequency masking', 'Date': '11/29/2020', 'Topic': 'Mixing'}
-{'Tip': 'If you do not play it, tweak, or manipulate it, render it.', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': 'Snare: Gentle boost @60-120Hz for beef or 6K gets it snappy.', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Remember that complex sounds are produced from simple sounds layered together. As you get to know your wave forms and different ways you can alter them, it will become easier to reverse engineer them. The sooner you embrace the basics, the easier it will be to obtain the complex tones that excite you.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': 'Common Minor chord patterns: i, VI, VII..... i, iv, VII... i, iv, v.... i, VI, III, VII.... ii, v, i.... i, iv, vii.....VI, VII, i, i..... i, VII, VI, VII....i, iv, i', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'A good way to extend a sampled sound like strings or a pad is to first make sure you are only sample one note (meaning only 1 pitch, not a melody or a changing chord). You don\'t want to sample multiple notes. Next, make sure you start the sample after the initial attack and end it before it fades. Lastly, if you sampler as this feature, set it to play the sound forward and then in reverse non-stop as you hold a key downer. Your sampler may also have "fade" or loop settings to smooth out the edges. This will create a pretty seamless sample. Alternatively, you can just place the sample in your software\'s arrangement window and duplicate the file to play forward and then reverse for whatever length you desire.', 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'Shift+Tab = swaps between effects and midi', 'Date': '11/29/2020', 'Topic': 'Ableton'}
-{'Tip': 'Set 5 minute limits to decide whether a particular instrument works in your track.', 'Date': '12/16/2020', 'Topic': 'Writing'}
-{'Tip': 'Focus on 4 and 8 bars', 'Date': '12/16/2020', 'Topic': 'Writing'}
-{'Tip': 'Use 2 compressors in series instead of 1', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'utilize 128s (Sampler with 128 samples loaded to scroll through). This is super helpful when picking the "right" kick or snare or whatever.', 'Date': '12/16/2020', 'Topic': 'Writing'}
-{'Tip': 'Although certain instruments typically sound best in the center (kick, bass, vocal, snare, high hats), it can really help each instrument be heard to have a few ticks of serparation between them. For example, I might put my snare 2 or 3 ticks to the left and high hat 2-3 ticks to the right.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'If you feel that you\'re onto something special, that will uniquely come out as special in the end, the last thing you want it somebody coming in, "Oh, I don\'t like that...". They may be the cleaning lady, for instance, but it has a psychological effect.', 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': 'REMOVE VOCALS: https://vocalremover.org/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "Here's a reverb trick used in star wars and others to double the apparent size of a room. Sometimes you just don't have access to a large enough room for the reverb you're looking for. The trick is to first record your sound dry. Now let's say we have a room that is 20x20x20 and we want to create the sound of a 40x40x40. You would record the sound being played in this space at twice the original speed (you can do this by sampling the original sound and playing it an octave up). You then take the results and play it at 1/2 speed. This will return the sound to it's original speed and pitch and give you the illusion of a much larger space. Finally layer this reverb with original sound and the effect is complete. Real Reverb, no plugins.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Atmospheric reverbs can be panned hard left and right to give your song a wide sound.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'People like simple beats', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'IDENTIFY SCALE/KEY: https://www.scales-chords.com/scalefinder.php', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "If you're not jamming, you're wasting time", 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': 'Duplicating your bass track and playing the same part in a higher octave can add richness to your bass sound. You will generally keep this layer lower in volume.', 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': 'Make drums sound good via other instruments', 'Date': '1/16/2021', 'Topic': 'Arrangement'}
-{'Tip': "If you want to finish more songs, start with an idea on a simple instrument (piano, guitar, or bass). It's better to have a basic song structure in mind before you start. Think of it like a blueprint. This will keep you focused instead of getting lost wanking on effects and synth tweaks.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'Compression can give your parts more "click" or bite & shape the sound in several ways/ Start with a high ratio, deep threshold & your release all the way down. Adjust the Attack, only looking for the "snap" or click, disregarding what comes after. Next, adjust the release to help emphasize the snap and the body or the sound. Now you\'ll have an extreme setting so you\'ll know how the compressor is affecting your sound. Now, lower your ratio to a level that sounds reasonable to you and bring up your threshold until you are happy with the results. If you prefer the extreme settings, that is fine too.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'LYRIC WRITING: Eminem is considered godly mainly due to his multi-syllabic rhyming ability. https://www.reddit.com/r/makinghiphop/comments/8qtgpg/a_full_guide_on_how_to_rhyme_like_eminem/', 'Date': '9/7/2021', 'Topic': 'Resource'}
-{'Tip': 'Kicks and bass can typically use stronger compression than other sounds but be careful if you are using samples have already been compressed. No need to overdo it.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Do less than you think you should', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Flow and Stress are mutually exclusive. You will be able to make decisions effortlessly.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'Reverb fills out', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Have a visual representation of your brand', 'Date': '1/11/2021', 'Topic': 'Tips'}
-{'Tip': "If you have trouble staying focused, work in 30 minute blocks by setting a timer and committing to work for the full 30 minutes. After that you can stop, take a quick break or recommit for another 30 minute block. You'll be surprised how effective this can be.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'Get feedback from listeners and fans. Producers can point out technical problems, but fans highlight the level of overall enjoyment embedded in your music.', 'Date': '1/11/2021', 'Topic': 'Tips'}
-{'Tip': 'Avoid super long intros', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'You might be able to achieve a similar state, but it is not a TRUE or sustainable flow state and you are not working your flow muscle by achieving the state through drugs.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'F Minor: Obscure and Plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "Spend time with a sytnh or other instrument just recording yourself making interesting sounds. Let go of the need to make music during these sessions and just record yourself playing around and exploring new sounds. You'll find plenty of great sounds you can cut up and use when you're back in writing mode.", 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': 'Hook Loop, Verse Chop', 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': 'ignore sending your music to anyone until your music is good enough to be marketed.', 'Date': '1/11/2021', 'Topic': 'Industry'}
-{'Tip': 'Simple beats can be spiced up with different flavors of drums', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Tape all plugs in', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': 'DRAGON BALL MIDI FILES: https://www.dragonballz-world.com/midis', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Eb Major: Cruel and hard', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Amateurs imitate, artists steal Other option is to go the other way and practice your scales and arpeggios until your fingers can do some of the work for you.', 'Date': '12/27/2020', 'Topic': 'Creativity'}
-{'Tip': 'Remove layers that you really cannot hear or feel', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Mixing: sometimes being "good enough" is okay.', 'Date': '2/11/2021', 'Topic': 'Mixing'}
-{'Tip': 'USE REFERENCE TRACKS!!!!', 'Date': '12/30/2020', 'Topic': 'Workflow'}
-{'Tip': 'Accelerated Learning', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'How many syllables can you use that still make sense in a song? As long as the word itself rhymes, you still get points for that word. How many references can you cross and still stay on topic? And still rhyme? The more complex the subject matter and wordplay is, that’s where you get your points.', 'Date': '9/7/2021', 'Topic': 'Lyric Writing'}
-{'Tip': 'Granular synthesis. Spectacular for RNB type of sounds.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': "Cut your effect tails from carrying over unless it's intended", 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Black hat marketing is a branch of ethically questionable marketing tactics (Instagram bots, paying for plays, mass spamming your links etc.) In my opinion, avoid these at all costs.', 'Date': '1/11/2021', 'Topic': 'Industry'}
-{'Tip': 'Baseline = chords with a slight riff', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "Collaborating with other artists is one of the best ways to boost yuour knowledge and gain some powerful production techniques. It's best to work with someone who has strengths where you have weaknesses.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'To find offending frequencies, boost the gain on a narrow frequency band and sweep from low to high. When you hit an offending frequency, lower the gain until it sounds better. There may be several offending frequencies', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Form strong creative habits (90 minutes of creativity a day)', 'Date': '12/27/2020', 'Topic': 'Tips'}
-{'Tip': 'HH/Cymbal: Roll off at 300Hz, small boost at 3k for extra brightness', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'G Minor: Serious and magnificent', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Much like kick drums, the "bite" in your bass is typically at around 1-3khz. This frequency helps the bass cut through the mix, so try boosting those frequencies a bit before boosting your whole bass volume.', 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': 'Abscence of sound makes reintroduction more impactful', 'Date': '11/29/2020', 'Topic': 'Writing'}
-{'Tip': 'Not everything needs compression, so allow certain parts to sit in the background. Choose your lead ans supporting parts wisely.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Common Major chord patterns: I, IV, V.... I, vi, IV.... ii, V, I.... I, vi, ii, V....I, V, vi, IV.....I, IV, vi, V...... I, iii, IV, V.....I, IV, I V.....I, IV, ii, V', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Harmony matches', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'B Major: Harsh and Plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Micro sampling. Move any sample into a simpler or sampler, set the start/end point within one sample and listen to your new synth. tune it to get a playable waveform that sounds sick.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': "Often times you'll have several parts fighting to be heard at the same frequency. It's best to choose which sound will highlight the lower mids and which one the upper mids. By sweeping the frequencies, you can find the dominnat frequencies and chose a different one for each sound. Whichever frequency you decide to boost on one sound, make sure to lower that frequency on the other sound or sounds.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'When in doubt, rely on the number "5". Or "3', 'Date': '8/9/2020', 'Topic': 'Writing'}
-{'Tip': 'Rap to different kinds of music', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Mono = flat. Stereo = 3D', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Mix in mono and mix at a low volume', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Don't be afraid to write a bad song because the next one may be great. It's just like anything else; you've got to keep the synapses in your brain going.", 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': 'LEARN PIANO: https://pianu.com/sign-in', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'ALL MELODIES EVER CREATED: http://allthemusic.info/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "Don't keep adding parts to your track hoping it will solve your problems. If the basic elements don't inspire you, you probably want to rework those before adding anything new.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'It makes good sense to add a subtle reverb to all your main drums so they sound like they were played in the same room, even if you plan on using a longer reverb on certain sounds. Careful with the kick though. You want your kick to remain as clean as possible.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'Keep it simple', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': 'The only thing you should ask yourself is: "Would a rapper find their pocket on this beat?', 'Date': '12/27/2020', 'Topic': 'Writing'}
-{'Tip': "Reverb can be used to help give your track a greater rhythmic impact. The trick is to adjust the decay of the reverb to fade out right before the next 1/4 note (or 1/2 note) comes in. This will create another element of rhythm and can have a dramatic impact on your song's groove.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'G Major: Serious and Magnificent', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "Be an interactive rapper (rap about what's going on around you)", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Implied chords -- chords missing a note, or the note being found in like the bass', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': "If you're not stopping to enjoy your beat/riff/song, something is wrong.", 'Date': '2/11/2021', 'Topic': 'Writing'}
-{'Tip': 'Set up your workdlow to get in the flow as soon as possible.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Use sidechain (to a drum track) on instruments that sound linear', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': '808 GENERATOR: https://io808.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'POETRY GUIDE: https://davidfshultz.com/2017/03/27/rhythm-accentual-syllabic-rhythm-and-iambic-pentameter/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'MUSIC MIXING GUIDE: https://www.landr.com/en/how-to-mix', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'POETRY PROMPTS: https://www.bryndonovan.com/2019/01/21/20-easy-poetry-writing-prompts-and-exercises/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Limiter takes off the top', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': "Reverb plays a huge role in giving your song dimension & depth. By using different settings for certain instruments, you are able to make some things appear close (little to no reverb) to sounds that appear distant (longer reverbs, bigger rooms). It's a good idea to set up multiple sned/return tracks with reverbs specifically dialed in for front, middle, and rear of your mix.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'BASIC MUSIC THEORY: https://www.basicmusictheory.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Subscribe to channels that upload vintage tracks (most of them are doing it DAILY) and just listen.', 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': 'AUDIO RESOURCE: https://www.audiobombs.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'MUSIC THEORY FUNDAMENTALS: https://tobyrush.com/theorypages/en-uk/index.html', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Pick a song that you like and re-write the lyrics to the same melody. Then, re-write the melody with the the lyrics you wrote. In the end you have a completely new song.', 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': 'Use a compressor to glue all your drums together', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Make 16 dots going down the page, rhyme every couplet.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Always map out song structure (copy from other artists if needed: iconic instruments? How does the production build? what moment does it become the song?)', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Write Bad bars to get the crap out', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Make a list of rhymes/words you like, then repeat the word, but swap out each letter of the alphabet to find every possible rhyme. Mark down partial rhymes, create phrases, fit the puzzle together.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'if you have any horn samples or midi horns that need some life, record yourself blowing into a mic (maybe 5 seconds). roll off everything below 10 kHz (maybe as low as 5 kHz) so you just have the airy part of your breath. have this “playing” underneath the horn parts. side chain this to a gate, so that it opens whenever the horns play.', 'Date': '12/16/2020', 'Topic': 'Mixing'}
-{'Tip': 'The most important qualities of a good mix are quality songwriting, arranging, and performance.', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': "Take time to make the first elements of your song sound inspiring, whether it be adding little details to your drums or coming up with a great chord structure. This is important, as the rest of your tune will be inspired by these parts. Failing to do this can result in you realizing that no matter how much time and how many layers you put into a song, it's not going to excite you or the listener.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'E Minor: Effeminate, amorous, plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "For most sounds you add reverb to, you';; want a highpass filter to remove low frequency reverb. You want to keep those low frequencies as clean as possible.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'You are 5x more productive in a state of flow.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'Memorize your lyrics "Fuck the words, BE the poem', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "When considering what to keep in a mix and what to chuck out, consider instruments in terms of frequency zones. If you have too many instruments in one zone and not enough in another, you might be able to solve both issures by playing an instrument in another octave. Other wise you need to either do some sound sculpting with EQ's, so each part has it's own small zone or get rid of the part.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'boombap, start with a 2 step hi hat pattern, but, add a higher and quiet second hihat on top of that, super subtly, only playing a few notes and maybe a triplet.', 'Date': '12/16/2020', 'Topic': 'Mixing'}
-{'Tip': "Fletcher Munson curve shaped EQs. This is an EQ shaped to a person's ear. Placing it on the mids guarantees you'll be getting something which makes sense and sounds clean to a person's ear.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Most beats use a simple trap drum. Maybe some hihat rolls with panning.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Increasing reverb decay times can create a nice building up feeling. Pulling back the recerb quickly can put a song back in motion and re-energize your song. Expecially useful in club music.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'If your DAW has a "Freeze" function, freezing your tracks can free up your computer\'s CPU.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'Writing: never settle for "good enough', 'Date': '2/11/2021', 'Topic': 'Writing'}
-{'Tip': 'dry/wet knob is not the same as creating a rack that adds the wet sound to the signal without removing any of the dry.', 'Date': '2/11/2021', 'Topic': 'Mixing'}
-{'Tip': '4) Transitions - start here, end there: Audio Effect Rack > Performance & DJ > Knob 1 Washed Out\nDelay > Pong\nFrequency Shifter > Many Birds (play with frequency and rate to easily make laser risers and more)\nGrain Delay > Ascent (mix the wet for a sloppy transition)\nPhaser > Acoustic Cascade (mess w/ rate and envelope for a smooth phase)', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': 'Without fail, long sounds rising or dropping in pitch, filter sweeps and reverse sounds can add drama and anticipation to your song. Building up white noise with a low pass filter is a standard for many club moments.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'Boredom is when you are doing something that doesnt challenge you enough to fully engage you. Anxiety is when you are overloaded by a task which is far beyond your skill level.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'Color code tracks', 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'Use a low pass filter (or high cut) on sounds that might compete with your hi hats. Usually around 7-8khz works well.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Most best selling beatstars beats have a 10-16 second intro. Made up of the melodic instruments in the beat.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': "When boosting, it's better to use a wider frequency band. Narrow bands when reducing gain.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "EQ, it's a sample based producer's best friend.", 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': 'Most people are self-focussed on social media. Often it’s those who shine a light on others who stand out the most. Make sure it’s valuable though, and not just ass-kissing.', 'Date': '1/11/2021', 'Topic': 'Industry'}
-{'Tip': 'write in a journal everyday but to write in very descriptive details. You can try and imagine a picture and paint that image through words. Use all of your 5 senses to describe a simple scene. This exercise will make it easy for you to use vivid description when it’s time for you to actually write a song.', 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': 'Soft clippping is a great way to get punchy drums', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'RESOURCE: https://www.looperman.com/', 'Date': '1/24/2021', 'Topic': 'Resource'}
-{'Tip': 'Short-term tactics are often not worth it – always think long term', 'Date': '1/11/2021', 'Topic': 'Tips'}
-{'Tip': 'Ctrl+Shift+W = Second Window', 'Date': '11/29/2020', 'Topic': 'Ableton'}
-{'Tip': 'To think outside the box, you first must define your box', 'Date': '1/11/2021', 'Topic': 'Creativity'}
-{'Tip': "On social media, it's about native content (don't make users leave whatever app they're using)", 'Date': '1/11/2021', 'Topic': 'Industry'}
-{'Tip': 'MUSIC THEORY: https://www.hooktheory.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Memorize your favorite bars.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Create a mood with chords (keep it as simple as possible (reuse chords in different patterns)', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': '1) Adding Beef - making your sound "more"/different:Amp > Blues Drive (Throw this on some 808s or add some boom to those drums)\nChorus > Resorus\nChorus > Yo Man!\nCorpus > Drum to Bass Synth\nCorpus > Loop [all] (turn down LFO amount and dry/wet)\nCorpus > Sub Kick Maker\nDelay > Full Range Spatial (pads + kicks)\nDynamic Tube > Hot Driven Tape\nEcho > Filter Flutter Analog\nEcho > Nostalgia\nEcho > DrumFlanger (D/W 10%, high pass above 1 khz)\nFlanger > Afraid of Bees\nFrequency Shifter > Flanger (oddly, most of Ableton\'s best phase shifting (particularly flanging) effects are found outside of the Flanger/Phaser audio effects)\nFrequency Shifter > Slow Motion Drive (crank the mix)\nMultiband Dynamics > OTT (hear me out. Mix in a sprinkle or put on 20 instances. There are no OTT rules)\nOverdrive > YES (overdrive retains your original tone a bit more than distortion so choose one and get gritty)\nPedal > Warm Fuzz (like a gulp of hot cocoa hit-you-in-the-chest warmness)\nVocoder > Noise Drums', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': 'Mixing essentials (in this order): Volume, Panning, EQ', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': "Don't stress rhyming every line yet.", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'POETRY GUIDE: https://davidfshultz.com/2017/09/04/all-about-line-breaks/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'ii + V + I = Jazz', 'Date': '12/27/2020', 'Topic': 'Writing'}
-{'Tip': 'Morning page journels', 'Date': '12/13/2020', 'Topic': 'Creativity'}
-{'Tip': 'F Major: Furious and quick tempered', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Use a predelay to give your instruments dimension while not losing the clarity, or as an interesting delayed sound. Works great with drums.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Write how you talk/rap.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'CHORD GENERATOR: https://autochords.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'CHORD CALCULATOR: https://www.musictheory.net/calculators/chord', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'C Minor: Obscure and Sad', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'A Major: Joyful and pastoral', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Panning: Serve bass right up the middle. Vocals as well. Pan core instruments 50-75%. Flip everything to mono. Still sound good? if not, tweak.', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'MUSIC PRODUCING TERMINOLOGY: https://www.dummies.com/computers/pcs/music-on-your-pc/words-to-know-as-a-music-producer/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'If you have a sound that has a piece of it peaking above 0 on the frequency spectrum, using the EQ to clean this part of the sound up so as to balance it.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Strings: Too varied to summarize', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Automation can make a good mix great', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'be aware of the dunning kruger effect', 'Date': '12/27/2020', 'Topic': 'Tips'}
-{'Tip': 'C Major: Gay and Warlike', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Setting drum loop warp mode to "Beat", then putting the transient mode on on "-->|", then messing with the size slider right next to it---can drastically clean up a drum loop in a super easy and fast way. I use it in almost every production', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': 'A slight boost in the 12khz & above range can give your song a nice lift or air. Be very selective if you are doing this on individual instruments.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Organize your session (Comp parts, make sure everything is named and organized)', 'Date': '12/30/2020', 'Topic': 'Workflow'}
-{'Tip': "It's a good idea to have several drum kits that are General Midi compatible. This makes it much easier to switch between kits without hacing to reprogram the midi notes. This also gives you the ability to borrow the drum programming from another song's mifi file, which are pretty easy to hunt down on the internet.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
 {'Tip': 'Send your delay into a short reverb', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Rap about anything just to get yourself rapping.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "Don't worry about a sample being clean enough. Dirty is good. If it sounds good to you, use it.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'Use gamification to turn a boring activity into a fun one.', 'Date': '1/1/2021', 'Topic': 'Workflow'}
-{'Tip': 'Group Flow is a thing. To achieve this I think the most important thing is to keep everyone involved equally.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'Holding option/alt to add curves to automation lines', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': 'You can send a group of instruments to 1 compressor and lighter setting (1.5:1 - 2:1) to help them "gel" together. This is helpful for drum layers that weren\'t all recorded together.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'A Minor: Tender and Plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Mixing is like pizza. Perfect and neat (Dominoes) is great but sloppy is amazing (sex like)', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'LEARN PIANO: https://ankiweb.net/shared/info/1055128485', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "You don't need more plug ins. You need more time with one plug in.", 'Date': '12/30/2020', 'Topic': 'Tips'}
+{'Tip': 'You are both the teacher and the child', 'Date': '1/4/2021', 'Topic': 'Creativity'}
+{'Tip': 'Bb Major: Magnificent and joyful', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': '1) Adding Beef - making your sound "more"/different:Amp > Blues Drive (Throw this on some 808s or add some boom to those drums)\nChorus > Resorus\nChorus > Yo Man!\nCorpus > Drum to Bass Synth\nCorpus > Loop [all] (turn down LFO amount and dry/wet)\nCorpus > Sub Kick Maker\nDelay > Full Range Spatial (pads + kicks)\nDynamic Tube > Hot Driven Tape\nEcho > Filter Flutter Analog\nEcho > Nostalgia\nEcho > DrumFlanger (D/W 10%, high pass above 1 khz)\nFlanger > Afraid of Bees\nFrequency Shifter > Flanger (oddly, most of Ableton\'s best phase shifting (particularly flanging) effects are found outside of the Flanger/Phaser audio effects)\nFrequency Shifter > Slow Motion Drive (crank the mix)\nMultiband Dynamics > OTT (hear me out. Mix in a sprinkle or put on 20 instances. There are no OTT rules)\nOverdrive > YES (overdrive retains your original tone a bit more than distortion so choose one and get gritty)\nPedal > Warm Fuzz (like a gulp of hot cocoa hit-you-in-the-chest warmness)\nVocoder > Noise Drums', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'You can sort ableton effects by rank (how often you use them)', 'Date': '12/1/2020', 'Topic': 'Ableton'}
+{'Tip': "In most DAWs these days, you have the ability to analyze the groove of a drumloop or a few bars of a song and apply it to your own work. Groove can powerfully impact the danceability or vibe of your song. It's not something you always hear, but you definitely feel it.", 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Pick a verse you like, Run it over many different type beats in different styles.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Volume: Select everythiung and drag the faders all the way down. Start with drums, bring them up to comfort and balance individual drum tracks. Then bring up bass, make even with the kick. Bring up lead. Then the rest. Then play with faders', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': "Gear is not nothing, but it's not everything. vibe is king.", 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'FREE SOUNDS: https://freesound.org/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Form strong creative habits (90 minutes of creativity a day)', 'Date': '12/27/2020', 'Topic': 'Tips'}
+{'Tip': 'B Major: Harsh and Plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'How many syllables can you use that still make sense in a song? As long as the word itself rhymes, you still get points for that word. How many references can you cross and still stay on topic? And still rhyme? The more complex the subject matter and wordplay is, that’s where you get your points.', 'Date': '9/7/2021', 'Topic': 'Lyric Writing'}
+{'Tip': 'Atmospheric reverbs can be panned hard left and right to give your song a wide sound.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Althought there are many variations to song arrangement, it's good to start by modeling your songs arrangement after another song you like. You can always change things once you find your inspiration, but this should help you build a song with confidence.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': 'Finishing songs is just as important as starting songs', 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': "Spend time with a sytnh or other instrument just recording yourself making interesting sounds. Let go of the need to make music during these sessions and just record yourself playing around and exploring new sounds. You'll find plenty of great sounds you can cut up and use when you're back in writing mode.", 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': 'EAR TRAINING: https://www.musictheory.net/exercises/ear-interval/998byyy', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "Often times you'll have several parts fighting to be heard at the same frequency. It's best to choose which sound will highlight the lower mids and which one the upper mids. By sweeping the frequencies, you can find the dominnat frequencies and chose a different one for each sound. Whichever frequency you decide to boost on one sound, make sure to lower that frequency on the other sound or sounds.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'F Major: Furious and quick tempered', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Increased Creativity', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'Soft clippping is a great way to get punchy drums', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'LYRIC WRITING: Eminem is considered godly mainly due to his multi-syllabic rhyming ability. https://www.reddit.com/r/makinghiphop/comments/8qtgpg/a_full_guide_on_how_to_rhyme_like_eminem/', 'Date': '9/7/2021', 'Topic': 'Resource'}
+{'Tip': 'Set up your workdlow to get in the flow as soon as possible.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': "If you're not making, you're editing. If you're not editing, you're researching. If you're not researching, you're preparing. if you're not preparing, you're fueling the soul.", 'Date': '12/19/2020', 'Topic': 'Tips'}
+{'Tip': 'Better performance', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': "Duplicating a sound and pitching it up or down an octave can really help a sound stand out. This duplicated track usually doesn't have to be very high in volume to make an impact. In fact, subtle is probably better.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': 'E Major: Quarrelsome  and boisterous', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'MUSIC MAP: https://www.music-map.com/pink+floyd', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Let the content do the talking', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'Recording things with a microphone around your house or outside can make for some incredibly usable and unique sounds for your music. Go around and tap everything and bang things arouns in the kitchen. It can be an endless source of inspiration.', 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Sidechaining Kick to Bass helps with frequency masking', 'Date': '11/29/2020', 'Topic': 'Mixing'}
+{'Tip': 'A good way to extend a sampled sound like strings or a pad is to first make sure you are only sample one note (meaning only 1 pitch, not a melody or a changing chord). You don\'t want to sample multiple notes. Next, make sure you start the sample after the initial attack and end it before it fades. Lastly, if you sampler as this feature, set it to play the sound forward and then in reverse non-stop as you hold a key downer. Your sampler may also have "fade" or loop settings to smooth out the edges. This will create a pretty seamless sample. Alternatively, you can just place the sample in your software\'s arrangement window and duplicate the file to play forward and then reverse for whatever length you desire.', 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'Morning page journels', 'Date': '12/13/2020', 'Topic': 'Creativity'}
+{'Tip': "If you are using bass samples, make sure thay have a solid low end to start with. Trying to boose bass EQ's won't help if there is nothing there to start with.", 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'Minor: WhWWhWW', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'In order to achieve a state of flow as you can see on the graph, you need to match your skill level with your challenge level. If you are just starting out and have a low skill level, dont set yourself a gigantic challenge.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'FIND SAMPLES: https://www.whosampled.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "Offsetting everything using Ableton's track delay. Easy way to get groovier drums despite using the same patterns. Helpful to make pieces of my mids stand out from each other.", 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'The best mixes begin with quality recordings of great performances (Ask yourself "How do I want the track to sound like?")', 'Date': '12/30/2020', 'Topic': 'Workflow'}
+{'Tip': "Most cool sounds you hear in a club track are multiple sounds layered together. Don't expect to recreate it with 1 sound. Use one layer to dial in the lows, one for the mids, and another for the highs. EQ appropriately to make room for each layer. Add a little compression to help them gel together as one sound.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': "When it comes to mixing bass, louder is not necessarily better. If you push the bass too hard, you'll lose clarity in your mix. If you play the mix in your car and you can't hear anything but thump thump thump, you'll know why.", 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'Remember that complex sounds are produced from simple sounds layered together. As you get to know your wave forms and different ways you can alter them, it will become easier to reverse engineer them. The sooner you embrace the basics, the easier it will be to obtain the complex tones that excite you.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': 'The more I released my dream, the closer I came to it - I was so attached to being this super star when I was young, I never really did anything. I was too scared to fail at it. I knew that this was my dream since I was 10. So when I gave myself the permission to fail 100 times, I released myself from an unhealthy standard that really never got me anywhere.', 'Date': '2/11/2021', 'Topic': 'Tips'}
+{'Tip': '808 GENERATOR: https://io808.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'DRAGON BALL MIDI FILES: https://www.dragonballz-world.com/midis', 'Date': '12/17/2020', 'Topic': 'Resource'}
 {'Tip': 'SOUND DESIGN: http://www.synthesizer-cookbook.com/index.html', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Panning the mids so as not to conflict with bass, snare and kick.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'ONLINE SEQUENCER: https://onlinesequencer.net/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'New gear does not equal better sounds', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': "Work on 1 song at a time. Don't build a cool sounding riff or a 16 bar loop and then abandon it to start another idea. You'll never finish anything, and finished songs are all anyone cares about, not how much time you've spent in the studio. If you don't push through songwriting obstacles right when you come across them, you'll never gain the skills that will make you more productive on future songs.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Tab  = swaps between sessiona and arrangment view', 'Date': '11/29/2020', 'Topic': 'Ableton'}
+{'Tip': 'Use gamification to turn a boring activity into a fun one.', 'Date': '1/1/2021', 'Topic': 'Workflow'}
+{'Tip': 'Know how your voice sounds (record it often)', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Most people are self-focussed on social media. Often it’s those who shine a light on others who stand out the most. Make sure it’s valuable though, and not just ass-kissing.', 'Date': '1/11/2021', 'Topic': 'Industry'}
+{'Tip': 'Make a list of rhymes/words you like, then repeat the word, but swap out each letter of the alphabet to find every possible rhyme. Mark down partial rhymes, create phrases, fit the puzzle together.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'A slight boost in the 12khz & above range can give your song a nice lift or air. Be very selective if you are doing this on individual instruments.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Be an interactive rapper (rap about what's going on around you)", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'A small boost in the 1-6khz range can help bring sounds forward in the mix, while lowering those frequencies can place a sound a bit further back.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': '350hz-650hz is typically where mud is found in sounds.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'F Minor: Obscure and Plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "Cut your effect tails from carrying over unless it's intended", 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Short-term tactics are often not worth it – always think long term', 'Date': '1/11/2021', 'Topic': 'Tips'}
+{'Tip': 'For electronic music, pretty much any bass sound will benefit from a sine wave taking up 120hz and below area. Make sure to put a high pass at 120hz on your main bass sound.', 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'To get Hip hop hihats, Put an arpegiattor on your hihat midi track and automate the rate. You could also assign rate to drum pads, keys or knobs.', 'Date': '1/4/2021', 'Topic': 'Writing'}
+{'Tip': 'Add a high pass filter before your reverb', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'MUSIC PRODUCING TERMINOLOGY: https://www.dummies.com/computers/pcs/music-on-your-pc/words-to-know-as-a-music-producer/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Art is never finished, only surrendered', 'Date': '11/29/2020', 'Topic': 'Tips'}
 {'Tip': 'Have backup bars and fillers', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Touch your computer as little as possible', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': "Yes. I think that if you have a vision of peace, it's very strange living in a world that has so much war.", 'Date': '1/4/2021', 'Topic': 'Creativity'}
+{'Tip': 'Abscence of sound makes reintroduction more impactful', 'Date': '11/29/2020', 'Topic': 'Writing'}
+{'Tip': "Don't be afraid to write a bad song because the next one may be great. It's just like anything else; you've got to keep the synapses in your brain going.", 'Date': '1/4/2021', 'Topic': 'Creativity'}
+{'Tip': 'Make 16 dots going down the page, rhyme every couplet.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Common Minor chord patterns: i, VI, VII..... i, iv, VII... i, iv, v.... i, VI, III, VII.... ii, v, i.... i, iv, vii.....VI, VII, i, i..... i, VII, VI, VII....i, iv, i', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'If you do not play it, tweak, or manipulate it, render it.', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'REMOVE VOCALS: https://vocalremover.org/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "If you choose the right sounds, there is sometimes no need to EQ. Don't feel that every sound needs to be fiddled with.Sometimes adding a bit of distortion or tape saturation ro a sound can do a better job at enhancing a sound than EQ. Or sometimes a combination of both, just don't distort sub frequencies. Leave those clean.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Take time to make the first elements of your song sound inspiring, whether it be adding little details to your drums or coming up with a great chord structure. This is important, as the rest of your tune will be inspired by these parts. Failing to do this can result in you realizing that no matter how much time and how many layers you put into a song, it's not going to excite you or the listener.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': "Don't judge yourself by the opinions of other who don't understand you and your art.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Mixing does not equal mastering', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Use rhymebrain.com to practice rhyming', 'Date': '12/10/2020', 'Topic': 'Resource'}
+{'Tip': "MArketing/Promotion don't have to be spammy/ evil. Make them fun", 'Date': '1/11/2021', 'Topic': 'Tips'}
+{'Tip': "Reverb can be used to help give your track a greater rhythmic impact. The trick is to adjust the decay of the reverb to fade out right before the next 1/4 note (or 1/2 note) comes in. This will create another element of rhythm and can have a dramatic impact on your song's groove.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Snare: Gentle boost @60-120Hz for beef or 6K gets it snappy.', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Choose Direct Monitoring over being able to hear the effects in your own mix. Always.', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Simple beats can be spiced up with different flavors of drums', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': "Don't play everything everytime", 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "You typically don't want lots of sub on both your bass and your kicks if they are playing at the same time. It's best to EQ one for the sub frequencies and the other for the higher bass note. Wooden or metallic percussive samples with a very quick attack and decay work really well. Slight variances in the click can add more realism as well.", 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'utilize 128s (Sampler with 128 samples loaded to scroll through). This is super helpful when picking the "right" kick or snare or whatever.', 'Date': '12/16/2020', 'Topic': 'Writing'}
+{'Tip': "Don't only listen to the style of music you create. Original ideas come from outside influences. Try to make it a point to listen to a full album in a different genre of music once a week. Even a style you might not prefer. You're sure to have a much richer musical palette to draw from.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Implied chords -- chords missing a note, or the note being found in like the bass', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Setting drum loop warp mode to "Beat", then putting the transient mode on on "-->|", then messing with the size slider right next to it---can drastically clean up a drum loop in a super easy and fast way. I use it in almost every production', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'Use 2 compressors in series instead of 1', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': "Don't keep adding parts to your track hoping it will solve your problems. If the basic elements don't inspire you, you probably want to rework those before adding anything new.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Although boosting mids tend to make everything inidividually sound better, it will make for a cluttered, thin mix with no warmth. Choose wisely which parts you enhance, and choose a different frequency to enhance with each instrument.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Mix in mono and mix at a low volume', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'MUSIC THEORY: https://www.hooktheory.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Always map out song structure (copy from other artists if needed: iconic instruments? How does the production build? what moment does it become the song?)', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Circle of Fifths order of sharps: FCGDAEB', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'B Minor: Solitary and Melancholic', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Organize Samples and Plugins', 'Date': '11/29/2020', 'Topic': 'Ableton'}
+{'Tip': 'Experiment with putting the delays wet/dry above 50% to create off but sometimes very interesting timing changes of your parts.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Threshold is the level the compressorn starts reducing volume. Ratio is the strength of volume reflection (light=1:1-4:1, med = 4:1-8:1, high = >8:1). Attack is how long the compressor takes to get to full reduction after threshold. Release is how long to let go of compression. Knee soothes out transition, soft knee is more natural hard is more intense.', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Dont look for samples exclusively when you want to make a beat.', 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': 'Sends and returns are great to use on for common effects. Reverbs and delays especially. Make sure any effect on a return is 100% wet.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Make Templates', 'Date': '11/29/2020', 'Topic': 'Ableton'}
+{'Tip': 'To get a more vintage grit of the old hardware samplers, try bit reducing your sounds to 8 or 12bit with a sampling rate of 10-20 khz.', 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'There are several types of reverbs and each plays a different role and gives a different sound. There is a plate reverb, spring reverb, convultion, chamber, hall, room, and reverse.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Replacing some of your reverbs with delay can help clean up your mix as delay is less dense. The delays should be a straightforward 1/4 note or 1/2 note instead of an unusual timing.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'start off by writing anything to get the brain flowing, and it didn’t have to rhyme. - J Cole', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Remove layers that you really cannot hear or feel', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'EXTRACT VOCALS: https://www.acapella-extractor.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'RESOURCE: https://www.looperman.com/', 'Date': '1/24/2021', 'Topic': 'Resource'}
+{'Tip': 'CHORD CALCULATOR: https://www.musictheory.net/calculators/chord', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "flipping a 3/4 or 6/8 sample into a 4/4 beat by simply repeating a beat or 2 depending on what works. (making a 3+1/4 or 2+2/4 bars and alternating) it really changes up the sample's sound and groove, and causes you to chop outside the box.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'Convolution Reverb on drums.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Use a low pass filter (or high cut) on sounds that might compete with your hi hats. Usually around 7-8khz works well.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Sow something and reap it later', 'Date': '11/29/2020', 'Topic': 'Writing'}
+{'Tip': 'You might be able to achieve a similar state, but it is not a TRUE or sustainable flow state and you are not working your flow muscle by achieving the state through drugs.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'The gate can also be sidechained, so you can make a sound only play when another sound is playing. Great for layering or rythmic breaks. (I usually use this with a noise generator to make a rythmic noise that gives intensity to the chorus.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'You can send a group of instruments to 1 compressor and lighter setting (1.5:1 - 2:1) to help them "gel" together. This is helpful for drum layers that weren\'t all recorded together.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Keep in mind that your brain considers sounds with a faster attack or click (stabs, percussion) more important than sounds with a slower attach that kind of fade in (pads). If you want a pad sound to be more prominent, you may want to speed up the attack.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'SPITFIRE LABS: https://labs.spitfireaudio.com/#category=&search=&new=true', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Make sure to create groups for each type of instrument so things stay organized. For example, group all your drum and percussion sounds together, bass sounds together, vocal tracks, pads, and effects. Whatever works for you to keep you organized will save you a lot of time.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': "Don't stress rhyming every line yet.", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': "Even though it's good to have quality samples, it's also fine to sample from an MP3. It will usually sound better than old vinyl anyway. Just make sure most of your instrumentation is higher quality to balance out the final result.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'I ain’t going to be talking sht about the next dude, or bragging about sht I got. I talk broke sht, I talk about sht I don’t got, or things I’m striving for. Say you’re speaking from a point of view where you’re talking to yourself, in maybe a sad mood. How do your tones come across? Can people feel what you’re saying? Can they hear what you’re saying? Are you well pronounced? Maybe you purposely were a little bit sloppy with it, to bring the point across. Can you bring the point across and still get the rhyme points? It’s like gymnastics on paper.', 'Date': '9/7/2021', 'Topic': 'Lyric Writing'}
+{'Tip': 'POETRY PROMPTS: https://www.bryndonovan.com/2019/01/21/20-easy-poetry-writing-prompts-and-exercises/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Ira Glass: "put your 10,000 in. you suck but your taste is killer. hold on to that.', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'People like simple beats', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'example of Michelangelo. While he was painting the Sistine Chapel he was reported to be so totally engrossed in his work he did not eat or sleep for days on end. He was so fully absorbed in his painting that nothing else existed outside of his work. This is a state of flow. When you are so fully absorbed in your activity that parts of your brain start to turn off so that you can focus all your energy and attention into the one task.', 'Date': '1/1/2021', 'Topic': 'Story'}
+{'Tip': 'Utilize follow actions', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Keep trying new things', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'Rap to different kinds of music', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'IDENTIFY SCALE/KEY: https://www.scales-chords.com/scalefinder.php', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Keep it simple', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Amateurs imitate, artists steal Other option is to go the other way and practice your scales and arpeggios until your fingers can do some of the work for you.', 'Date': '12/27/2020', 'Topic': 'Creativity'}
+{'Tip': "If you want to finish more songs, start with an idea on a simple instrument (piano, guitar, or bass). It's better to have a basic song structure in mind before you start. Think of it like a blueprint. This will keep you focused instead of getting lost wanking on effects and synth tweaks.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Use Piano more often', 'Date': '12/13/2020', 'Topic': 'Creativity'}
+{'Tip': 'Make sure everything is there for a reason', 'Date': '1/16/2021', 'Topic': 'Arrangement'}
+{'Tip': 'ii + V + I = Jazz', 'Date': '12/27/2020', 'Topic': 'Writing'}
+{'Tip': 'You want a riser before every snare or just have a snare or any sound that starts before the hit? Use the latency compansation to make it fit right in without cutting to the attack or moving every single midi note.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': '5) Misc - "i gave up on categories" box: Corpus > Panning Rezo\nEQ Three > Midnight (quick filter for old-radio-fying a sound)\nMutliband Dynamics > Speech Enhancer (good on vox and... speech)\nPhaser > Enphasor (put your music behind a wall)\nSpectrum > Notes', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'D Major: Joyous and Very Warlike', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "Saturating all basses and lots of sounds. Note if you do this, you need to turn the sound down so it's not getting over compressed. Still learning how to do this so it comes out perfect everytime.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "A send/return allows you to add the same effect to multiple instruments in different amounts. It also saves on CPU usage since it's only 1 effect being run to multiple tracks.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Kick: Roll off below 300Hz to clean muddiness. Boost 5-8 kHz for a bit of snap.', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Produciton and creative effects come before the mix)', 'Date': '12/30/2020', 'Topic': 'Workflow'}
+{'Tip': '4) Transitions - start here, end there: Audio Effect Rack > Performance & DJ > Knob 1 Washed Out\nDelay > Pong\nFrequency Shifter > Many Birds (play with frequency and rate to easily make laser risers and more)\nGrain Delay > Ascent (mix the wet for a sloppy transition)\nPhaser > Acoustic Cascade (mess w/ rate and envelope for a smooth phase)', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'LEARN PIANO: https://pianu.com/sign-in', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'SONG TABS: https://www.ultimate-guitar.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'COMMUNITY ARTICLE SAMPLES: https://archive.org/details/opensource_audio', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Reverse Reverb to create a very ethereal sound compression', 'Date': '11/29/2020', 'Topic': 'Mixing'}
+{'Tip': 'Loop, and THEN chop', 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': 'If you are experiencing anxiety you need to either lower the challenge level or increase your skills. If you are bored, you need to challenge yourself more.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'Color code tracks', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'Mixing essentials (in this order): Volume, Panning, EQ', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Group Flow is a thing. To achieve this I think the most important thing is to keep everyone involved equally.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
 {'Tip': "Study rappers you like and don't like.", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Mix = Tone through Balance', 'Date': '11/29/2020', 'Topic': 'Tips'}
+{'Tip': 'ALL MELODIES EVER CREATED: http://allthemusic.info/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "When boosting, it's better to use a wider frequency band. Narrow bands when reducing gain.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Subscribe to channels that upload vintage tracks (most of them are doing it DAILY) and just listen.', 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': "Just so we're clear, delay should be avoided on sub bass frequencies.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Vocals: Depends - 300Hz boost/cut for 'stand out'. Tiny 6K boost for clarity.", 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': "On social media, it's about native content (don't make users leave whatever app they're using)", 'Date': '1/11/2021', 'Topic': 'Industry'}
+{'Tip': "Don't hesitate, it stifles your creativity.", 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': '11.1 khz is a great frequency to bring out hihats.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'SOUND EFFECTS: https://sound-effects.bbcrewind.co.uk/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "EQ: TRUST YOUR EARS. You need to EQ less than you think. Use a reference track. Don't suck the life out oif performances. Don't cut more than 6db.", 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Three separate awesome ideas ≠ one awesome song.', 'Date': '2/11/2021', 'Topic': 'Writing'}
+{'Tip': "Collaborating with other artists is one of the best ways to boost yuour knowledge and gain some powerful production techniques. It's best to work with someone who has strengths where you have weaknesses.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'CHORD GENERATOR: https://autochords.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
 {'Tip': "There is no magic plugin. Get really familiar with what you've got and trust that this is enough. Your own limitations are what make you sound like you.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Use a compressor to glue all your drums together', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Most beats use a simple trap drum. Maybe some hihat rolls with panning.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Baseline = chords with a slight riff', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Avoid super long intros', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Use sidechain (to a drum track) on instruments that sound linear', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': "Fletcher Munson curve shaped EQs. This is an EQ shaped to a person's ear. Placing it on the mids guarantees you'll be getting something which makes sense and sounds clean to a person's ear.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'dry/wet knob is not the same as creating a rack that adds the wet sound to the signal without removing any of the dry.', 'Date': '2/11/2021', 'Topic': 'Mixing'}
+{'Tip': 'MIDI FILES: https://www.midiworld.com/files/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'C Minor: Obscure and Sad', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Use a master Ableton Live performance set (Everything in one set)', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Memorize your lyrics "Fuck the words, BE the poem', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'The most important qualities of a good mix are quality songwriting, arranging, and performance.', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'REMOVE VOCALS: https://www.remove-vocals.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Bb minor: obscure and terrible', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "Don't be afraid to call on other people to help you out with things that you can't do on your own", 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Use a predelay to give your instruments dimension while not losing the clarity, or as an interesting delayed sound. Works great with drums.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'POETRY GUIDE: https://davidfshultz.com/2017/03/27/rhythm-accentual-syllabic-rhythm-and-iambic-pentameter/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Hook Loop, Verse Chop', 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': 'Ghost tracks are a common secret among producers. The basic idea is to grab a loop or section from a song you like and start playing along to it. As you add more of your own layers, you will soon be able to delete the original loop and carry on building your song with the essence of the ghost track still remaining yet still completely your own.', 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Tape all plugs in', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'C Major: Gay and Warlike', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'A Major: Joyful and pastoral', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Shift+Tab = swaps between effects and midi', 'Date': '11/29/2020', 'Topic': 'Ableton'}
+{'Tip': 'Placing certain sounds over a muted display can help with timing', 'Date': '1/24/2021', 'Topic': 'Tips'}
+{'Tip': 'Use a wide cut around 250 to remove the mud build up', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Persistence beats inspiration', 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': 'Identify your best tracks and retrace your steps', 'Date': '12/27/2020', 'Topic': 'Writing'}
+{'Tip': 'Common Major chord patterns: I, IV, V.... I, vi, IV.... ii, V, I.... I, vi, ii, V....I, V, vi, IV.....I, IV, vi, V...... I, iii, IV, V.....I, IV, I V.....I, IV, ii, V', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'SHEET MUSIC SOURCE: https://musescore.com/user/login?destination=%2Fdashboard', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Not everything needs compression, so allow certain parts to sit in the background. Choose your lead ans supporting parts wisely.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Panning: Serve bass right up the middle. Vocals as well. Pan core instruments 50-75%. Flip everything to mono. Still sound good? if not, tweak.', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Mono = flat. Stereo = 3D', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'You can get some crazy resampling results with the texture warping as well. Similar to granulizing.', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'Digital is manufactured', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Harmony matches', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Freestyle as often as possible, both on and off beat. Identify style (Melodic or pure rap / Simple lyricist or wordsmith / Punch lines or storylines) Combine these', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'ABLETON PACKS: https://brianfunk.com/packs', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "Reverb plays a huge role in giving your song dimension & depth. By using different settings for certain instruments, you are able to make some things appear close (little to no reverb) to sounds that appear distant (longer reverbs, bigger rooms). It's a good idea to set up multiple sned/return tracks with reverbs specifically dialed in for front, middle, and rear of your mix.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'LEARN PIANO: https://ankiweb.net/shared/info/1055128485', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "Be ruthless - avoid getting married to a sound just because you spent a lot of time on it. If it's the weak link in your track, ditch it.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Write how you talk/rap.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': "If it doesn't fit now, it's not going to magically fit later.", 'Date': '2/11/2021', 'Topic': 'Writing'}
+{'Tip': "It's much better to know 1 or 2 synths inside and out than barely knowing 50 synths. Take the time to choose one synth and go deep with it.", 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': 'Without fail, long sounds rising or dropping in pitch, filter sweeps and reverse sounds can add drama and anticipation to your song. Building up white noise with a low pass filter is a standard for many club moments.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': 'Limiter takes off the top', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Make yourself avoid your own commonly used words', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "It's a good idea to have several drum kits that are General Midi compatible. This makes it much easier to switch between kits without hacing to reprogram the midi notes. This also gives you the ability to borrow the drum programming from another song's mifi file, which are pretty easy to hunt down on the internet.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': "Avoid overusing the solo button when EQing an instrument. It doesn't matter how it sounds on it's own but rather how it sounds in the mix", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Whatever you think can't be done, someone will do it. Try to make it you.", 'Date': '1/16/2021', 'Topic': 'Creativity'}
+{'Tip': 'Make drums sound good via other instruments', 'Date': '1/16/2021', 'Topic': 'Arrangement'}
+{'Tip': 'Use your voice as an instrument', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'G Minor: Serious and magnificent', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'The only thing you should ask yourself is: "Would a rapper find their pocket on this beat?', 'Date': '12/27/2020', 'Topic': 'Writing'}
+{'Tip': 'Only use low latency devices/plug ins', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Inside of the song (Bridge) makes the outside sound good.', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Treat your brain like a muscle and use it everyday.', 'Date': '12/30/2020', 'Topic': 'Creativity'}
+{'Tip': 'Much like kick drums, the "bite" in your bass is typically at around 1-3khz. This frequency helps the bass cut through the mix, so try boosting those frequencies a bit before boosting your whole bass volume.', 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'Sidechaining is a great way to keep your kicks sounding clean and give your parts rhythmic  "pumping" sound. To do this you\'ll need a compressor plugin that is capable of sidechaining. You will drag the compressor to the track you want to add that "pumping " sound to and then there will be an option to choose what track to sidechain from. Typically people like to sidechain to amkick drum for the classic sidechain sound, but you can get really creative by trying oither instruments to sidechain to. The setting on your compressor will usually have the threshold between -30 and -50db, ratio around 5:1, a fast attack and the decay between 150-350ms. Adjust the decay until you get the right timing and feel. Adjust the threshold for a more or less dramatic effect.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Compression boxes in and squashes it', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Go for being fearless', 'Date': '1/4/2021', 'Topic': 'Creativity'}
+{'Tip': "3) Polish - puttin' on a fiiine coat - space/mix Auto Filter > Only the good parts\nChannel EQ > Drum Loop Smoother\nChorus > Subtile\nDelay > Pan Left/Pan Right\nEcho > Time Travel Echo\nEQ > Filter > center kill (great mixing tool for understanding the stereo image of your drums)\nErosion > Hiss - add some sheen estevez\nFilter Delay > StereoFlex\nFrequency Shifter > Stereo Vibrato\nRedux > Down 2.66 (I love redux, but the most common use is a pinch of downsampling)\nReverb> Hall > Spacious\nReverb > Room > Drum Room/Guitar Room\nReverb > Special > Parallel Walls\nUtility > Sides Only", 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'Black hat marketing is a branch of ethically questionable marketing tactics (Instagram bots, paying for plays, mass spamming your links etc.) In my opinion, avoid these at all costs.', 'Date': '1/11/2021', 'Topic': 'Industry'}
+{'Tip': 'Increasing reverb decay times can create a nice building up feeling. Pulling back the recerb quickly can put a song back in motion and re-energize your song. Expecially useful in club music.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "So stop playing for that energy. Ignore it, it's not real. Instead, play for the little fan inside you, the guy or girl who is the reason you became a musician in the first place. Play the whole show for THAT fan, and it will be an awesome show every time. And the audience will follow your lead", 'Date': '12/17/2020', 'Topic': 'Tips'}
+{'Tip': 'For hard left and right pans of one instrument (guitars, sometimes comes to ming), I like to duplicate the track, throw one left and the other right, but offset one by about 10 ms or until you hear the separation more clearly.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Focus on 4 and 8 bars', 'Date': '12/16/2020', 'Topic': 'Writing'}
+{'Tip': "If you have trouble staying focused, work in 30 minute blocks by setting a timer and committing to work for the full 30 minutes. After that you can stop, take a quick break or recommit for another 30 minute block. You'll be surprised how effective this can be.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Duplicating your bass track and playing the same part in a higher octave can add richness to your bass sound. You will generally keep this layer lower in volume.', 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'Remove rumble (40Hz & Below) on non low end tracks', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Kicks and bass can typically use stronger compression than other sounds but be careful if you are using samples have already been compressed. No need to overdo it.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Cause it really is a spirit being born. It's a living spirit. When people hear it, a spirit happens to them. And you have to be really quiet and careful with it when it's first being born, and you can't tell it it's wrong, 'cause it will just die. For me, they do. If before they're done I start to think something is wrong with them, they just won't get done. You have to keep going back and playing 'em over and over again and listening to them.", 'Date': '1/4/2021', 'Topic': 'Creativity'}
+{'Tip': "when I chop a sample with drums in it I am looking to eq out the hi end (while still maintaining as much of the sample's richness as possible) to get rid of some of the samples depth", 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': 'An LFO can add character to an otherwise boring sound. LFOs can control volume, pitch or filter (and many more parameters) changes at a chosen speed. Subtle amounts of LFO can add complexity and richness while more extreme settings can create different sounds altogether. Experiment with these as you make synth sounds or work with a sampler.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': 'Build upon the little wins', 'Date': '12/16/2020', 'Topic': 'Tips'}
+{'Tip': 'boombap, start with a 2 step hi hat pattern, but, add a higher and quiet second hihat on top of that, super subtly, only playing a few notes and maybe a triplet.', 'Date': '12/16/2020', 'Topic': 'Mixing'}
+{'Tip': 'Have a back up plan handy', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': "If possible, play some parts by hand without quantizing. Ears perk up when they hear imperfect human playing (as long as it isn't way off of course).", 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': "Take 10 minutes and rhyme with one phrase, like 'cut-the-grass.’ Do 16 bars with just that rhyme - J Cole", 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Circle of Fifths order of flats: BEADGCF', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'pick random words, maybe 6-8 and then pick an absolutely random theme. Then try to write a verse that would contain all of those random words, and also stick to a chosen theme.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'ABLETON MANUAL: https://www.dropbox.com/scl/fi/d3xxlpdq81bh0q7be4vhr/Ableton-Manual-Summary.docx?dl=0&rlkey=fe2xxd4vqlhrh869ger36qglr', 'Date': '1/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'Piano: Kill muddiness at 300 Hz and beloe. Improve clarity with small 6K boost', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'If you feel that you\'re onto something special, that will uniquely come out as special in the end, the last thing you want it somebody coming in, "Oh, I don\'t like that...". They may be the cleaning lady, for instance, but it has a psychological effect.', 'Date': '1/4/2021', 'Topic': 'Creativity'}
+{'Tip': 'Bounce Stems after finishing up on projects and properly name them', 'Date': '11/29/2020', 'Topic': 'Ableton'}
+{'Tip': "Avoid reverb on your kicks unless it's a special effect or the beginning of a breakdown.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "It's generally a good idea to pan your instruments before you EQ. This is because the sound of an instrument can change not only by it's placement in the stereo field, but also the other instruments in the same panning area. Sometimes panning can solve frequency clashing issues without the need for much EQ.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Hyperfocus', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'Ctrl+Shift+W = Second Window', 'Date': '11/29/2020', 'Topic': 'Ableton'}
+{'Tip': 'Pitched down 808 kicks can make a great tone for a sub bass tone. Experiment with a slower attack as well.', 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': "Mid/Side EQing all mids and highs. It's making my bass sound cleaner by a considerable margin than before.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Quantizing can be a blessing or a curse. If your DAW of choice has groove quanitizing or a randomizing feature, use subtle amounts to give it a more human feel', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'POETRY GUIDE: https://davidfshultz.com/2017/09/04/all-about-line-breaks/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Have a visual representation of your brand', 'Date': '1/11/2021', 'Topic': 'Tips'}
+{'Tip': 'Analog is real', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'repitching chops of the sample and playing with them to differenciate the verse and the hook or to make the original sample less recognizable. Works best with sample of one or few instruments playing together.', 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': 'For a "rear" reverc, go for a darker sound by adjusting the high frequency damping and with a longer decay. You\'ll still want a high pass filter set to 100-120hz.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Set 5 minute limits to decide whether a particular instrument works in your track.', 'Date': '12/16/2020', 'Topic': 'Writing'}
+{'Tip': "Take yourself out on artist's dates", 'Date': '12/13/2020', 'Topic': 'Lyric Writing'}
+{'Tip': "if I have a sample with both vocals in it and an instrumental section, i'll loop the instrumental during the verse then chop and play some filtered vocals over it at a super low volume to give the verse some texture.", 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': "Enhance the life of a sample by EQ'ing differently in different spots", 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': "Like reverb, it's best to remove the low frequencies of your delats to keep your mix sounding clean.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Use a hi pass filter (or a low cut) at 120hz or higher on every instrument that isn't kick or bass", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'RHYTHM PRACTICE: https://www.concerthotels.com/got-rhythm', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'The fewer that like it, the more special it is to those few.', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'Accelerated Learning', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'The real goal of memorization is to embody something, not just remember to say it.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'If you have a sound that has a piece of it peaking above 0 on the frequency spectrum, using the EQ to clean this part of the sound up so as to balance it.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'write in a journal everyday but to write in very descriptive details. You can try and imagine a picture and paint that image through words. Use all of your 5 senses to describe a simple scene. This exercise will make it easy for you to use vivid description when it’s time for you to actually write a song.', 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': 'Electric guitar: Cut/boost 300Hz. Boost 3K and 10k (10k for presence)', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'if you have any horn samples or midi horns that need some life, record yourself blowing into a mic (maybe 5 seconds). roll off everything below 10 kHz (maybe as low as 5 kHz) so you just have the airy part of your breath. have this “playing” underneath the horn parts. side chain this to a gate, so that it opens whenever the horns play.', 'Date': '12/16/2020', 'Topic': 'Mixing'}
+{'Tip': 'Check your mixes in multiple sound systems from your car to your computer speakers before you consider it done. Make sure to compare it to a high quality reference song that is similar to your sound.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'To find offending frequencies, boost the gain on a narrow frequency band and sweep from low to high. When you hit an offending frequency, lower the gain until it sounds better. There may be several offending frequencies', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Warm up before starting - J Cole', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': "Music isn't science, but audio is", 'Date': '11/29/2020', 'Topic': 'Tips'}
+{'Tip': 'Rap about anything just to get yourself rapping.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Feeling is vital. Quantization and staying in the scale should be ignored in favor of feeling.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'To think outside the box, you first must define your box', 'Date': '1/11/2021', 'Topic': 'Creativity'}
+{'Tip': 'Check your mix in mono frquently. This will help you recognize phase cancellation and also help you find panning locations that make an instrument sound clearer in the mix.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Don't do your sound design and songwriting on the same day. It's better to let your mind go without any worries when creating sounds, while songwriting requires more focus and technical brain functions. Separaing these habits will give you more productive results with both.", 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': 'MUSIC THEORY FUNDAMENTALS: https://tobyrush.com/theorypages/en-uk/index.html', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'adding Gross Beat to a Cubeatz loop and putting a basic trap pattern underneath is the formula to 99% of hit trap songs.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Putting as much contrast as I can think of between intro, verse and hook. That means, changing instruments, putting one portion in mono, putting lots of effects on one part and leaving the next part dry, etc.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Create a mood with chords (keep it as simple as possible (reuse chords in different patterns)', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': '2) Rhythmic - spice up da riddum: Audio Effect Rack > Performance & DJ > Cut-o--matic\nAuto Pan > Chopper\nAuto Pan > Pan-Asia\nBeat Repeat > Airpusher (kill the pitch decay)\nBeat Repeat > Repeight\nBeat Repeat > Vocal Fun\nDelay > Dotted Eighth Note\nEcho > Digital Edge Ping Pong\nEcho > Liquorice Whip (resample this randomness, can bring fun sounds and glitch effects)\nEcho > A Bit Tipsy\nEcho > Dark Fade Analog\nEcho > Delay Syndicate\nEcho > Vintage Delay Flutter One\nFilter Delay > Complex 5/Moving 3', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': 'G Major: Serious and Magnificent', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'GENERATE RANDOM MELODIES: https://tones.wolfram.com/', 'Date': '12/27/2020', 'Topic': 'Resource'}
+{'Tip': 'Learn eq theory, and cut generously, boost sparingly.', 'Date': '12/16/2020', 'Topic': 'Mixing'}
+{'Tip': 'Limits are a good thing. Try Live looping as if I were performing', 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': "Reverse reverb can be a really cool effect and it's not hard to do. Simply reverse a sound. Apply 100% wet reverb to the reverse sound. Render the resulting sound. Re-Import the sound as a layer to your original sound.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "EQ, it's a sample based producer's best friend.", 'Date': '12/16/2020', 'Topic': 'Sampling'}
+{'Tip': 'The haas* effect. Put a delay on a mono track, set the feedback to zero, the dry/wet to 100% and the delays to 0ms and 15-30 Ms. You now have the industry standard for stereo widening for free.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'Write Bad bars to get the crap out', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Keep your low end mono by using mid-side eq', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'Use de-esser to remove harsh stuff (whiney guitars/cymbals)', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'MUSIC MIXING GUIDE: https://www.landr.com/en/how-to-mix', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Racks are amazing. You can make a whole vocal chain with a one knob controller (you can map almost all vst parameters to a rack in ableton, not just stock plugins).', 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': "When mixing a song, it's better to listen to every instrument except the one you are turning up, otherwise you'll tend to mix each part too loud and not notice how each part is affecting your mix. By the time you've mixed the last instrument, the first instruments will sound too low, which can become an endless cycle.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Can't find the key or chords for a song? Need to get a cool chord progression or you playd something on guitar but want to layer it with an instrument? Use convert to harmonic. This will make a midi clip with the right notes. note that it will never make a mistake but it will add notes that originally wasn't there. So clean those out and continue working with instruments. Great for sounds with extreme reverb as you don't even need to remove the ugly notes.", 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'Memorize your favorite bars.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Micro sampling. Move any sample into a simpler or sampler, set the start/end point within one sample and listen to your new synth. tune it to get a playable waveform that sounds sick.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'If you are using an external instrument with midi, convert those to audio. This will help you avoid any syncing issues and give you greater editing options. You may also want to convert your internal midi insturments as well.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': 'Determine what kind of writer you will be. (Study other artists and classify their style)', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Steal and replace - instead of agonizing over a kick sound, just sample one from a sample CD or record and move on. You can replace it with your own sound later, but don;t lose your songwriting momentum doing sound design.', 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'D Minor: Serious and Pious', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'listen to tracks in multiple environments', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'Pull up a random video or TV. First sentence is the first line of your song', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'The auto filter can be sidechained like many other stock plugins. Aka use this to only low cut your bass, perc etc. when the kick hits. Keeps the energy but removes weird phace issues.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'MUSIC THEORY: https://www.lightnote.co/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Writing: never settle for "good enough', 'Date': '2/11/2021', 'Topic': 'Writing'}
+{'Tip': 'Pick a song that you like and re-write the lyrics to the same melody. Then, re-write the melody with the the lyrics you wrote. In the end you have a completely new song.', 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': 'Compression can give your parts more "click" or bite & shape the sound in several ways/ Start with a high ratio, deep threshold & your release all the way down. Adjust the Attack, only looking for the "snap" or click, disregarding what comes after. Next, adjust the release to help emphasize the snap and the body or the sound. Now you\'ll have an extreme setting so you\'ll know how the compressor is affecting your sound. Now, lower your ratio to a level that sounds reasonable to you and bring up your threshold until you are happy with the results. If you prefer the extreme settings, that is fine too.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Here's a reverb trick used in star wars and others to double the apparent size of a room. Sometimes you just don't have access to a large enough room for the reverb you're looking for. The trick is to first record your sound dry. Now let's say we have a room that is 20x20x20 and we want to create the sound of a 40x40x40. You would record the sound being played in this space at twice the original speed (you can do this by sampling the original sound and playing it an octave up). You then take the results and play it at 1/2 speed. This will return the sound to it's original speed and pitch and give you the illusion of a much larger space. Finally layer this reverb with original sound and the effect is complete. Real Reverb, no plugins.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Get voice training if you can.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': "samples from the early 70s where diff elements were panned hard left or right, you can choose to jus use the left or the right and completely change what's being sampled", 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': "Don't rely on only memory", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'You are the most happy in a state of flow.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'Keep the sub frequencies mono even if you are using stereo on the upper frequencies.', 'Date': '9/7/2021', 'Topic': 'Bass'}
+{'Tip': 'Holding option/alt to add curves to automation lines', 'Date': '2/11/2021', 'Topic': 'Ableton'}
+{'Tip': "Sidechaining can also be a great mixing tool. Let's say your guitar and vocal are fighting for frequencires. You can simply sidechain the guitar to the vocals so that anytime the vocals come in, it will either lower the guitar volume, or lower the conflicting frequency of the guitar. This trick can really be a lifesaver for cleaning up your mixes.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'just let your mind take over and let every song that ever influenced you take over.', 'Date': '12/27/2020', 'Topic': 'Creativity'}
+{'Tip': 'It makes good sense to add a subtle reverb to all your main drums so they sound like they were played in the same room, even if you plan on using a longer reverb on certain sounds. Careful with the kick though. You want your kick to remain as clean as possible.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': 'PLAY PIANO ONLINE WITH PEOPLE: https://www.multiplayerpiano.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Write every day', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Beat melodic melodies are msotly made using Guitar, bells, synth, pluck, flute,  or vocal samples.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'Slightly detuning 2 oscillators with the same wave type (sine, square, saw, etc.) creates thicker sound with a slight chorus effect. Great for pads but worth trying on just about anything.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': "Close your browsers and turn off the internet when working on music. This way when you get distracted and try to jump on to Facebook, you'll be quickly reminded that you are in work mode & will get back on task.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Granular synthesis. Spectacular for RNB type of sounds.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
+{'Tip': 'INTERACTIVE CIRCLE OF FIFTHS: https://randscullard.com/CircleOfFifths/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'A Minor: Tender and Plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "When using short repeating samples, especially in drum sounds, it's important to add a bit of variation in volume, decay times, and pitch.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'Although certain instruments typically sound best in the center (kick, bass, vocal, snare, high hats), it can really help each instrument be heard to have a few ticks of serparation between them. For example, I might put my snare 2 or 3 ticks to the left and high hat 2-3 ticks to the right.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'OLD MOVIE SAMPLES: https://movie-sounds.org/old-movie-samples/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'be aware of the dunning kruger effect', 'Date': '12/27/2020', 'Topic': 'Tips'}
+{'Tip': 'If something catches fire, that is now part of the show.', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Reverb fills out', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'There are 3 main kinds of things that will take you out of flow: CLARITY Killers (fuzzy goals, sketchy plans, feeble framing, unexpected complications); FOCUS Killers (overwhelm, temptation, environmental distraction, interruption); ENERGY Killers (boredom, anxiety, impatience, exhaustion);', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'BASIC MUSIC THEORY: https://www.basicmusictheory.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "Don't start each song from scratch. It's best to create a template with send/return effects you're likely to use, a starter drum kit that sounds good and some bass and synth sounds at easy access.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
+{'Tip': 'Most best selling beatstars beats have a 10-16 second intro. Made up of the melodic instruments in the beat.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': "It's genreally better to lower frequencies instead of boosting if you want a more natural sound and a fuller overall mix.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Eb Major: Cruel and hard', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': 'Then another 10 minutes, ‘Try to write a 16 to somebody’s beat in their style.’ So take somebody’s beat, a song that’s already out, by say Busta Rhymes, and do it in his flow. - J Cole', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Flow and Stress are mutually exclusive. You will be able to make decisions effortlessly.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'Not everything needs to be your best', 'Date': '12/16/2020', 'Topic': 'Creativity'}
+{'Tip': "Parallel compression can give you the best of 2 worlds by maintaining the original sound and it's transients while adding a tightly squeezed compressed layer. The best approach for this is to add a compressor to a send/return track. Set threshold to around -50db, attack as fast as possible, decay around 250ms & the ratio between 2:1 & 2.5:1. Then you'll be able to add a bit of this effect to any instrument you like.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "Don't worry about a sample being clean enough. Dirty is good. If it sounds good to you, use it.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'How to start a new project: Start with a Sample, Instrument (Playing Beat, Playing Melody, Playing Chords, Playing Bass), E-Drum Jam, Bass Guitar Jam, Captain Chords.', 'Date': '11/29/2020', 'Topic': 'Writing'}
+{'Tip': 'Get feedback from listeners and fans. Producers can point out technical problems, but fans highlight the level of overall enjoyment embedded in your music.', 'Date': '1/11/2021', 'Topic': 'Tips'}
+{'Tip': 'AUDIO RESOURCE: https://www.audiobombs.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Most beats had their hook at the 1 minute mark.', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': "Sample from anything that inspires you. Movie, spoken word, the sounds of nature, factory machines, and other songs. Repurposing sounds is an art unto itself. It doesn't matter where you take your ideas from, it's where you take them to. Wrory about the legal side of things after you've created something beautiful.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
+{'Tip': 'Automation can make a good mix great', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': "It's incredibly important to base your song on something of substnace instead of diving immediately into all the tweakt effects. Always start with a basic groove, bass, and chord structure. Only after you've built this into something should you start appplying all the glitchy effects.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': 'Boredom is when you are doing something that doesnt challenge you enough to fully engage you. Anxiety is when you are overloaded by a task which is far beyond your skill level.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'Do less than you think you should', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': 'MEmorize words and phrases that rhyme.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'Strings: Too varied to summarize', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'Your "front" reverb should be set to have bright early reflections and a shorter decay.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Organize your session (Comp parts, make sure everything is named and organized)', 'Date': '12/30/2020', 'Topic': 'Workflow'}
+{'Tip': 'If a beat doesn’t make you want to rap or dance by the time you just have drums and a baseline, then there is something wrong with one or both of those things', 'Date': '9/7/2021', 'Topic': 'Writing'}
+{'Tip': 'E Minor: Effeminate, amorous, plaintive', 'Date': '1/16/2021', 'Topic': 'Writing'}
 {'Tip': "By layering a sampled loop with a reverse phased copy of itself, you cam often get clean sounds in the left and right speakers that were previousy obscured by bass or vocals. This is a great way to make use of samples you might otherwise find unusable. It doesn't always work, but when it does, it gives you access to some pretty cool sounds.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
 {'Tip': 'Major: WWhWWWh', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'The best mixes begin with quality recordings of great performances (Ask yourself "How do I want the track to sound like?")', 'Date': '12/30/2020', 'Topic': 'Workflow'}
-{'Tip': 'Keep the sub frequencies mono even if you are using stereo on the upper frequencies.', 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': "Althought there are many variations to song arrangement, it's good to start by modeling your songs arrangement after another song you like. You can always change things once you find your inspiration, but this should help you build a song with confidence.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': "A long delay followed by a filter with an lfo sweeping frequencies can create great atmospheric extras to your music. This works best as a send/return track. You'll also want the low frequencies removed.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Choose Direct Monitoring over being able to hear the effects in your own mix. Always.', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': "If you are using bass samples, make sure thay have a solid low end to start with. Trying to boose bass EQ's won't help if there is nothing there to start with.", 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': '2) Rhythmic - spice up da riddum: Audio Effect Rack > Performance & DJ > Cut-o--matic\nAuto Pan > Chopper\nAuto Pan > Pan-Asia\nBeat Repeat > Airpusher (kill the pitch decay)\nBeat Repeat > Repeight\nBeat Repeat > Vocal Fun\nDelay > Dotted Eighth Note\nEcho > Digital Edge Ping Pong\nEcho > Liquorice Whip (resample this randomness, can bring fun sounds and glitch effects)\nEcho > A Bit Tipsy\nEcho > Dark Fade Analog\nEcho > Delay Syndicate\nEcho > Vintage Delay Flutter One\nFilter Delay > Complex 5/Moving 3', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': '5) Misc - "i gave up on categories" box: Corpus > Panning Rezo\nEQ Three > Midnight (quick filter for old-radio-fying a sound)\nMutliband Dynamics > Speech Enhancer (good on vox and... speech)\nPhaser > Enphasor (put your music behind a wall)\nSpectrum > Notes', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': "It's generally a good idea to pan your instruments before you EQ. This is because the sound of an instrument can change not only by it's placement in the stereo field, but also the other instruments in the same panning area. Sometimes panning can solve frequency clashing issues without the need for much EQ.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Sample from anything that inspires you. Movie, spoken word, the sounds of nature, factory machines, and other songs. Repurposing sounds is an art unto itself. It doesn't matter where you take your ideas from, it's where you take them to. Wrory about the legal side of things after you've created something beautiful.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': "Take 10 minutes and rhyme with one phrase, like 'cut-the-grass.’ Do 16 bars with just that rhyme - J Cole", 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Piano: Kill muddiness at 300 Hz and beloe. Improve clarity with small 6K boost', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'The more I released my dream, the closer I came to it - I was so attached to being this super star when I was young, I never really did anything. I was too scared to fail at it. I knew that this was my dream since I was 10. So when I gave myself the permission to fail 100 times, I released myself from an unhealthy standard that really never got me anywhere.', 'Date': '2/11/2021', 'Topic': 'Tips'}
-{'Tip': 'EAR TRAINING: https://www.musictheory.net/exercises/ear-interval/998byyy', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'The fewer that like it, the more special it is to those few.', 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'RHYTHM PRACTICE: https://www.concerthotels.com/got-rhythm', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Sow something and reap it later', 'Date': '11/29/2020', 'Topic': 'Writing'}
-{'Tip': 'SHEET MUSIC SOURCE: https://musescore.com/user/login?destination=%2Fdashboard', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Determine what kind of writer you will be. (Study other artists and classify their style)', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "Take yourself out on artist's dates", 'Date': '12/13/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "Parallel compression can give you the best of 2 worlds by maintaining the original sound and it's transients while adding a tightly squeezed compressed layer. The best approach for this is to add a compressor to a send/return track. Set threshold to around -50db, attack as fast as possible, decay around 250ms & the ratio between 2:1 & 2.5:1. Then you'll be able to add a bit of this effect to any instrument you like.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Make yourself avoid your own commonly used words', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'You are both the teacher and the child', 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': 'Organize Samples and Plugins', 'Date': '11/29/2020', 'Topic': 'Ableton'}
-{'Tip': 'Treat your brain like a muscle and use it everyday.', 'Date': '12/30/2020', 'Topic': 'Creativity'}
-{'Tip': "Don't judge yourself by the opinions of other who don't understand you and your art.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'Hyperfocus', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'Minor: WhWWhWW', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Compression boxes in and squashes it', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Identify your best tracks and retrace your steps', 'Date': '12/27/2020', 'Topic': 'Writing'}
-{'Tip': 'Recording things with a microphone around your house or outside can make for some incredibly usable and unique sounds for your music. Go around and tap everything and bang things arouns in the kitchen. It can be an endless source of inspiration.', 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'Three separate awesome ideas ≠ one awesome song.', 'Date': '2/11/2021', 'Topic': 'Writing'}
-{'Tip': 'Make sure everything is there for a reason', 'Date': '1/16/2021', 'Topic': 'Arrangement'}
-{'Tip': 'You are the most happy in a state of flow.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': "Whatever you think can't be done, someone will do it. Try to make it you.", 'Date': '1/16/2021', 'Topic': 'Creativity'}
-{'Tip': 'The real goal of memorization is to embody something, not just remember to say it.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "Even though it's good to have quality samples, it's also fine to sample from an MP3. It will usually sound better than old vinyl anyway. Just make sure most of your instrumentation is higher quality to balance out the final result.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'Finishing songs is just as important as starting songs', 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': 'example of Michelangelo. While he was painting the Sistine Chapel he was reported to be so totally engrossed in his work he did not eat or sleep for days on end. He was so fully absorbed in his painting that nothing else existed outside of his work. This is a state of flow. When you are so fully absorbed in your activity that parts of your brain start to turn off so that you can focus all your energy and attention into the one task.', 'Date': '1/1/2021', 'Topic': 'Story'}
-{'Tip': '11.1 khz is a great frequency to bring out hihats.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'E Major: Quarrelsome  and boisterous', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'New gear does not equal better sounds', 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'Pull up a random video or TV. First sentence is the first line of your song', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "You don't need more plug ins. You need more time with one plug in.", 'Date': '12/30/2020', 'Topic': 'Tips'}
-{'Tip': "If it doesn't fit now, it's not going to magically fit later.", 'Date': '2/11/2021', 'Topic': 'Writing'}
-{'Tip': 'MUSIC MAP: https://www.music-map.com/pink+floyd', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'How to start a new project: Start with a Sample, Instrument (Playing Beat, Playing Melody, Playing Chords, Playing Bass), E-Drum Jam, Bass Guitar Jam, Captain Chords.', 'Date': '11/29/2020', 'Topic': 'Writing'}
-{'Tip': 'just let your mind take over and let every song that ever influenced you take over.', 'Date': '12/27/2020', 'Topic': 'Creativity'}
-{'Tip': 'Know how your voice sounds (record it often)', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'For electronic music, pretty much any bass sound will benefit from a sine wave taking up 120hz and below area. Make sure to put a high pass at 120hz on your main bass sound.', 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': "Cause it really is a spirit being born. It's a living spirit. When people hear it, a spirit happens to them. And you have to be really quiet and careful with it when it's first being born, and you can't tell it it's wrong, 'cause it will just die. For me, they do. If before they're done I start to think something is wrong with them, they just won't get done. You have to keep going back and playing 'em over and over again and listening to them.", 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': "It's incredibly important to base your song on something of substnace instead of diving immediately into all the tweakt effects. Always start with a basic groove, bass, and chord structure. Only after you've built this into something should you start appplying all the glitchy effects.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'FREEB PLUGINS: https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/edit?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Use Piano more often', 'Date': '12/13/2020', 'Topic': 'Creativity'}
-{'Tip': "Close your browsers and turn off the internet when working on music. This way when you get distracted and try to jump on to Facebook, you'll be quickly reminded that you are in work mode & will get back on task.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'MUSIC THEORY: https://www.lightnote.co/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "Vocals: Depends - 300Hz boost/cut for 'stand out'. Tiny 6K boost for clarity.", 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Placing certain sounds over a muted display can help with timing', 'Date': '1/24/2021', 'Topic': 'Tips'}
-{'Tip': 'Putting as much contrast as I can think of between intro, verse and hook. That means, changing instruments, putting one portion in mono, putting lots of effects on one part and leaving the next part dry, etc.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': "You can't hear your sine wave bass on a phone but still want the soft nature of a clean sine wave sub? Put on an overdrive, set the band all the way to the left and adjust it til you have one or two harmonics. you can now hear it on a phone with no audable distortion (it will boost the bass a bit so turn it down after)", 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'Ira Glass: "put your 10,000 in. you suck but your taste is killer. hold on to that.', 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'Circle of Fifths order of flats: BEADGCF', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'If something catches fire, that is now part of the show.', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': 'The haas* effect. Put a delay on a mono track, set the feedback to zero, the dry/wet to 100% and the delays to 0ms and 15-30 Ms. You now have the industry standard for stereo widening for free.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'Mixing does not equal mastering', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Define your creative ritual.', 'Date': '12/30/2020', 'Topic': 'Creativity'}
-{'Tip': "If you choose the right sounds, there is sometimes no need to EQ. Don't feel that every sound needs to be fiddled with.Sometimes adding a bit of distortion or tape saturation ro a sound can do a better job at enhancing a sound than EQ. Or sometimes a combination of both, just don't distort sub frequencies. Leave those clean.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Duplicating a sound and pitching it up or down an octave can really help a sound stand out. This duplicated track usually doesn't have to be very high in volume to make an impact. In fact, subtle is probably better.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'Use de-esser to remove harsh stuff (whiney guitars/cymbals)', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': "Don't start each song from scratch. It's best to create a template with send/return effects you're likely to use, a starter drum kit that sounds good and some bass and synth sounds at easy access.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': "In most DAWs these days, you have the ability to analyze the groove of a drumloop or a few bars of a song and apply it to your own work. Groove can powerfully impact the danceability or vibe of your song. It's not something you always hear, but you definitely feel it.", 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Rest your ears', 'Date': '11/29/2020', 'Topic': 'Tips'}
-{'Tip': 'Loop, and THEN chop', 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': "When it comes to mixing bass, louder is not necessarily better. If you push the bass too hard, you'll lose clarity in your mix. If you play the mix in your car and you can't hear anything but thump thump thump, you'll know why.", 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': "if I have a sample with both vocals in it and an instrumental section, i'll loop the instrumental during the verse then chop and play some filtered vocals over it at a super low volume to give the verse some texture.", 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': "Music isn't science, but audio is", 'Date': '11/29/2020', 'Topic': 'Tips'}
-{'Tip': 'Bb Major: Magnificent and joyful', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'FREE SOUNDS: https://freesound.org/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "Don't do your sound design and songwriting on the same day. It's better to let your mind go without any worries when creating sounds, while songwriting requires more focus and technical brain functions. Separaing these habits will give you more productive results with both.", 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': 'Build upon the little wins', 'Date': '12/16/2020', 'Topic': 'Tips'}
-{'Tip': 'MUSIC CHORD TRENDS: https://www.hooktheory.com/trends', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Use EQ to cut frequencies way more often boost', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'B Minor: Solitary and Melancholic', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'D Minor: Serious and Pious', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'The gate can also be sidechained, so you can make a sound only play when another sound is playing. Great for layering or rythmic breaks. (I usually use this with a noise generator to make a rythmic noise that gives intensity to the chorus.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'Use rhymebrain.com to practice rhyming', 'Date': '12/10/2020', 'Topic': 'Resource'}
-{'Tip': 'You can get some crazy resampling results with the texture warping as well. Similar to granulizing.', 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': 'To get a more vintage grit of the old hardware samplers, try bit reducing your sounds to 8 or 12bit with a sampling rate of 10-20 khz.', 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'If a beat doesn’t make you want to rap or dance by the time you just have drums and a baseline, then there is something wrong with one or both of those things', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Let the content do the talking', 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'A small boost in the 1-6khz range can help bring sounds forward in the mix, while lowering those frequencies can place a sound a bit further back.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Learn eq theory, and cut generously, boost sparingly.', 'Date': '12/16/2020', 'Topic': 'Mixing'}
-{'Tip': 'Warm up before starting - J Cole', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "Don't only listen to the style of music you create. Original ideas come from outside influences. Try to make it a point to listen to a full album in a different genre of music once a week. Even a style you might not prefer. You're sure to have a much richer musical palette to draw from.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'OLD MOVIE SAMPLES: https://movie-sounds.org/old-movie-samples/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'To get Hip hop hihats, Put an arpegiattor on your hihat midi track and automate the rate. You could also assign rate to drum pads, keys or knobs.', 'Date': '1/4/2021', 'Topic': 'Writing'}
-{'Tip': 'Use a wide cut around 250 to remove the mud build up', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Add a high pass filter before your reverb', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Go for being fearless', 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': 'ABLETON PACKS: https://brianfunk.com/packs', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'ONLINE SEQUENCER: https://onlinesequencer.net/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Bounce Stems after finishing up on projects and properly name them', 'Date': '11/29/2020', 'Topic': 'Ableton'}
-{'Tip': 'Most beats had their hook at the 1 minute mark.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': "It's genreally better to lower frequencies instead of boosting if you want a more natural sound and a fuller overall mix.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Art is never finished, only surrendered', 'Date': '11/29/2020', 'Topic': 'Tips'}
-{'Tip': 'Have extras of every cable', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': 'INTERACTIVE CIRCLE OF FIFTHS: https://randscullard.com/CircleOfFifths/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'FIND SAMPLES: https://www.whosampled.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Keep your low end mono by using mid-side eq', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': "Don't rely on only memory", 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Sidechaining is a great way to keep your kicks sounding clean and give your parts rhythmic  "pumping" sound. To do this you\'ll need a compressor plugin that is capable of sidechaining. You will drag the compressor to the track you want to add that "pumping " sound to and then there will be an option to choose what track to sidechain from. Typically people like to sidechain to amkick drum for the classic sidechain sound, but you can get really creative by trying oither instruments to sidechain to. The setting on your compressor will usually have the threshold between -30 and -50db, ratio around 5:1, a fast attack and the decay between 150-350ms. Adjust the decay until you get the right timing and feel. Adjust the threshold for a more or less dramatic effect.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Enhance the life of a sample by EQ'ing differently in different spots", 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': "Generally it's best to start with drums and bass and then slowly mix each partback in 1 at a time. If the groovbe is compromised or the bass loses it's punch, consider lowering, reworking or removing the part.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Not everything needs to be your best', 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': "3) Polish - puttin' on a fiiine coat - space/mix Auto Filter > Only the good parts\nChannel EQ > Drum Loop Smoother\nChorus > Subtile\nDelay > Pan Left/Pan Right\nEcho > Time Travel Echo\nEQ > Filter > center kill (great mixing tool for understanding the stereo image of your drums)\nErosion > Hiss - add some sheen estevez\nFilter Delay > StereoFlex\nFrequency Shifter > Stereo Vibrato\nRedux > Down 2.66 (I love redux, but the most common use is a pinch of downsampling)\nReverb> Hall > Spacious\nReverb > Room > Drum Room/Guitar Room\nReverb > Special > Parallel Walls\nUtility > Sides Only", 'Date': '2/11/2021', 'Topic': 'Ableton'}
-{'Tip': "Most cool sounds you hear in a club track are multiple sounds layered together. Don't expect to recreate it with 1 sound. Use one layer to dial in the lows, one for the mids, and another for the highs. EQ appropriately to make room for each layer. Add a little compression to help them gel together as one sound.", 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'An LFO can add character to an otherwise boring sound. LFOs can control volume, pitch or filter (and many more parameters) changes at a chosen speed. Subtle amounts of LFO can add complexity and richness while more extreme settings can create different sounds altogether. Experiment with these as you make synth sounds or work with a sampler.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': 'You can sort ableton effects by rank (how often you use them)', 'Date': '12/1/2020', 'Topic': 'Ableton'}
-{'Tip': 'VIDEO GAME MUSIC: https://www.vgmusic.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Make Templates', 'Date': '11/29/2020', 'Topic': 'Ableton'}
-{'Tip': 'Beat melodic melodies are msotly made using Guitar, bells, synth, pluck, flute,  or vocal samples.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Have a back up plan handy', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': 'Limits are a good thing. Try Live looping as if I were performing', 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': "Don't be afraid to call on other people to help you out with things that you can't do on your own", 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': "A send/return allows you to add the same effect to multiple instruments in different amounts. It also saves on CPU usage since it's only 1 effect being run to multiple tracks.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Keep in mind that your brain considers sounds with a faster attack or click (stabs, percussion) more important than sounds with a slower attach that kind of fade in (pads). If you want a pad sound to be more prominent, you may want to speed up the attack.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Offsetting everything using Ableton's track delay. Easy way to get groovier drums despite using the same patterns. Helpful to make pieces of my mids stand out from each other.", 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'adding Gross Beat to a Cubeatz loop and putting a basic trap pattern underneath is the formula to 99% of hit trap songs.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Ghost tracks are a common secret among producers. The basic idea is to grab a loop or section from a song you like and start playing along to it. As you add more of your own layers, you will soon be able to delete the original loop and carry on building your song with the essence of the ghost track still remaining yet still completely your own.', 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'Racks are amazing. You can make a whole vocal chain with a one knob controller (you can map almost all vst parameters to a rack in ableton, not just stock plugins).', 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'COMMUNITY ARTICLE SAMPLES: https://archive.org/details/opensource_audio', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Better performance', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': 'D Major: Joyous and Very Warlike', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "Avoid overusing the solo button when EQing an instrument. It doesn't matter how it sounds on it's own but rather how it sounds in the mix", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Pick a verse you like, Run it over many different type beats in different styles.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "Use a hi pass filter (or a low cut) at 120hz or higher on every instrument that isn't kick or bass", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "samples from the early 70s where diff elements were panned hard left or right, you can choose to jus use the left or the right and completely change what's being sampled", 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'Pitched down 808 kicks can make a great tone for a sub bass tone. Experiment with a slower attack as well.', 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': 'For hard left and right pans of one instrument (guitars, sometimes comes to ming), I like to duplicate the track, throw one left and the other right, but offset one by about 10 ms or until you hear the separation more clearly.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'EXTRACT VOCALS: https://www.acapella-extractor.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "MArketing/Promotion don't have to be spammy/ evil. Make them fun", 'Date': '1/11/2021', 'Topic': 'Tips'}
-{'Tip': 'Quantizing can be a blessing or a curse. If your DAW of choice has groove quanitizing or a randomizing feature, use subtle amounts to give it a more human feel', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'REMOVE VOCALS: https://www.remove-vocals.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Use your voice as an instrument', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "When mixing a song, it's better to listen to every instrument except the one you are turning up, otherwise you'll tend to mix each part too loud and not notice how each part is affecting your mix. By the time you've mixed the last instrument, the first instruments will sound too low, which can become an endless cycle.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Only use low latency devices/plug ins', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': "when I chop a sample with drums in it I am looking to eq out the hi end (while still maintaining as much of the sample's richness as possible) to get rid of some of the samples depth", 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': 'For a "rear" reverc, go for a darker sound by adjusting the high frequency damping and with a longer decay. You\'ll still want a high pass filter set to 100-120hz.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Check your mixes in multiple sound systems from your car to your computer speakers before you consider it done. Make sure to compare it to a high quality reference song that is similar to your sound.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Utilize follow actions', 'Date': '1/11/2021', 'Topic': 'Performance'}
-{'Tip': "Work on 1 song at a time. Don't build a cool sounding riff or a 16 bar loop and then abandon it to start another idea. You'll never finish anything, and finished songs are all anyone cares about, not how much time you've spent in the studio. If you don't push through songwriting obstacles right when you come across them, you'll never gain the skills that will make you more productive on future songs.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': "It's much better to know 1 or 2 synths inside and out than barely knowing 50 synths. Take the time to choose one synth and go deep with it.", 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': 'Practice different flows.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Freestyle as often as possible, both on and off beat. Identify style (Melodic or pure rap / Simple lyricist or wordsmith / Punch lines or storylines) Combine these', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Persistence beats inspiration', 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': 'Volume: Select everythiung and drag the faders all the way down. Start with drums, bring them up to comfort and balance individual drum tracks. Then bring up bass, make even with the kick. Bring up lead. Then the rest. Then play with faders', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'Feeling is vital. Quantization and staying in the scale should be ignored in favor of feeling.', 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': "You typically don't want lots of sub on both your bass and your kicks if they are playing at the same time. It's best to EQ one for the sub frequencies and the other for the higher bass note. Wooden or metallic percussive samples with a very quick attack and decay work really well. Slight variances in the click can add more realism as well.", 'Date': '9/7/2021', 'Topic': 'Bass'}
-{'Tip': "Be ruthless - avoid getting married to a sound just because you spent a lot of time on it. If it's the weak link in your track, ditch it.", 'Date': '9/7/2021', 'Topic': 'Workflow'}
-{'Tip': 'There are 3 main kinds of things that will take you out of flow: CLARITY Killers (fuzzy goals, sketchy plans, feeble framing, unexpected complications); FOCUS Killers (overwhelm, temptation, environmental distraction, interruption); ENERGY Killers (boredom, anxiety, impatience, exhaustion);', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': "Don't hesitate, it stifles your creativity.", 'Date': '12/16/2020', 'Topic': 'Creativity'}
-{'Tip': "Just so we're clear, delay should be avoided on sub bass frequencies.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'pick random words, maybe 6-8 and then pick an absolutely random theme. Then try to write a verse that would contain all of those random words, and also stick to a chosen theme.', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': "When using short repeating samples, especially in drum sounds, it's important to add a bit of variation in volume, decay times, and pitch.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'Then another 10 minutes, ‘Try to write a 16 to somebody’s beat in their style.’ So take somebody’s beat, a song that’s already out, by say Busta Rhymes, and do it in his flow. - J Cole', 'Date': '12/10/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Slightly detuning 2 oscillators with the same wave type (sine, square, saw, etc.) creates thicker sound with a slight chorus effect. Great for pads but worth trying on just about anything.', 'Date': '9/7/2021', 'Topic': 'Sound design'}
-{'Tip': 'Your "front" reverb should be set to have bright early reflections and a shorter decay.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Gear is not nothing, but it's not everything. vibe is king.", 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'Make sure to create groups for each type of instrument so things stay organized. For example, group all your drum and percussion sounds together, bass sounds together, vocal tracks, pads, and effects. Whatever works for you to keep you organized will save you a lot of time.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'Replacing some of your reverbs with delay can help clean up your mix as delay is less dense. The delays should be a straightforward 1/4 note or 1/2 note instead of an unusual timing.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Analog is real', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'SOUND EFFECTS: https://sound-effects.bbcrewind.co.uk/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Bb minor: obscure and terrible', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'Threshold is the level the compressorn starts reducing volume. Ratio is the strength of volume reflection (light=1:1-4:1, med = 4:1-8:1, high = >8:1). Attack is how long the compressor takes to get to full reduction after threshold. Release is how long to let go of compression. Knee soothes out transition, soft knee is more natural hard is more intense.', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': "flipping a 3/4 or 6/8 sample into a 4/4 beat by simply repeating a beat or 2 depending on what works. (making a 3+1/4 or 2+2/4 bars and alternating) it really changes up the sample's sound and groove, and causes you to chop outside the box.", 'Date': '9/7/2021', 'Topic': 'Sampling'}
-{'Tip': 'Electric guitar: Cut/boost 300Hz. Boost 3K and 10k (10k for presence)', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'Get voice training if you can.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
-{'Tip': 'Kick: Roll off below 300Hz to clean muddiness. Boost 5-8 kHz for a bit of snap.', 'Date': '1/16/2021', 'Topic': 'Mixing'}
-{'Tip': 'In order to achieve a state of flow as you can see on the graph, you need to match your skill level with your challenge level. If you are just starting out and have a low skill level, dont set yourself a gigantic challenge.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
-{'Tip': "EQ: TRUST YOUR EARS. You need to EQ less than you think. Use a reference track. Don't suck the life out oif performances. Don't cut more than 6db.", 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': 'SPITFIRE LABS: https://labs.spitfireaudio.com/#category=&search=&new=true', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Check your mix in mono frquently. This will help you recognize phase cancellation and also help you find panning locations that make an instrument sound clearer in the mix.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Although boosting mids tend to make everything inidividually sound better, it will make for a cluttered, thin mix with no warmth. Choose wisely which parts you enhance, and choose a different frequency to enhance with each instrument.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Tab  = swaps between sessiona and arrangment view', 'Date': '11/29/2020', 'Topic': 'Ableton'}
-{'Tip': "Don't play everything everytime", 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': 'SONG TABS: https://www.ultimate-guitar.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'PLAY PIANO ONLINE WITH PEOPLE: https://www.multiplayerpiano.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'MIDI FILES: https://www.midiworld.com/files/', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': "Sidechaining can also be a great mixing tool. Let's say your guitar and vocal are fighting for frequencires. You can simply sidechain the guitar to the vocals so that anytime the vocals come in, it will either lower the guitar volume, or lower the conflicting frequency of the guitar. This trick can really be a lifesaver for cleaning up your mixes.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Dont look for samples exclusively when you want to make a beat.', 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': "Like reverb, it's best to remove the low frequencies of your delats to keep your mix sounding clean.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Percussion sounds can have more impact in a mix if they are dry. Especially if other sounds have reverb.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'repitching chops of the sample and playing with them to differenciate the verse and the hook or to make the original sample less recognizable. Works best with sample of one or few instruments playing together.', 'Date': '12/16/2020', 'Topic': 'Sampling'}
-{'Tip': '350hz-650hz is typically where mud is found in sounds.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'POETRY GUIDE: https://files.eric.ed.gov/fulltext/ED304701.pdf', 'Date': '12/17/2020', 'Topic': 'Resource'}
-{'Tip': 'Experiment with putting the delays wet/dry above 50% to create off but sometimes very interesting timing changes of your parts.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'ABLETON MANUAL: https://www.dropbox.com/scl/fi/d3xxlpdq81bh0q7be4vhr/Ableton-Manual-Summary.docx?dl=0&rlkey=fe2xxd4vqlhrh869ger36qglr', 'Date': '1/11/2021', 'Topic': 'Ableton'}
-{'Tip': 'Remove rumble (40Hz & Below) on non low end tracks', 'Date': '12/30/2020', 'Topic': 'Mixing'}
-{'Tip': "Yes. I think that if you have a vision of peace, it's very strange living in a world that has so much war.", 'Date': '1/4/2021', 'Topic': 'Creativity'}
-{'Tip': "Saturating all basses and lots of sounds. Note if you do this, you need to turn the sound down so it's not getting over compressed. Still learning how to do this so it comes out perfect everytime.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Most beats don't have a bridge.", 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Keep trying new things', 'Date': '1/16/2021', 'Topic': 'Tips'}
-{'Tip': 'GENERATE RANDOM MELODIES: https://tones.wolfram.com/', 'Date': '12/27/2020', 'Topic': 'Resource'}
+{'Tip': 'When in doubt, rely on the number "5". Or "3', 'Date': '8/9/2020', 'Topic': 'Writing'}
+{'Tip': 'Mixing is like pizza. Perfect and neat (Dominoes) is great but sloppy is amazing (sex like)', 'Date': '1/16/2021', 'Topic': 'Mixing'}
 {'Tip': 'Adding a subtle triplet delat to a simple melody can create more depth and complexity while adding to the overall groove. Works great for percussion too.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': "Can't find the key or chords for a song? Need to get a cool chord progression or you playd something on guitar but want to layer it with an instrument? Use convert to harmonic. This will make a midi clip with the right notes. note that it will never make a mistake but it will add notes that originally wasn't there. So clean those out and continue working with instruments. Great for sounds with extreme reverb as you don't even need to remove the ugly notes.", 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'There are several types of reverbs and each plays a different role and gives a different sound. There is a plate reverb, spring reverb, convultion, chamber, hall, room, and reverse.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'Produciton and creative effects come before the mix)', 'Date': '12/30/2020', 'Topic': 'Workflow'}
-{'Tip': 'Circle of Fifths order of sharps: FCGDAEB', 'Date': '1/16/2021', 'Topic': 'Writing'}
-{'Tip': "Mid/Side EQing all mids and highs. It's making my bass sound cleaner by a considerable margin than before.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'If you are using an external instrument with midi, convert those to audio. This will help you avoid any syncing issues and give you greater editing options. You may also want to convert your internal midi insturments as well.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
-{'Tip': 'Reverse Reverb to create a very ethereal sound compression', 'Date': '11/29/2020', 'Topic': 'Mixing'}
+{'Tip': 'FREEB PLUGINS: https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/edit?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Practice different flows.', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'ignore sending your music to anyone until your music is good enough to be marketed.', 'Date': '1/11/2021', 'Topic': 'Industry'}
+{'Tip': 'You are 5x more productive in a state of flow.', 'Date': '1/1/2021', 'Topic': 'Creativity'}
+{'Tip': 'HH/Cymbal: Roll off at 300Hz, small boost at 3k for extra brightness', 'Date': '1/16/2021', 'Topic': 'Mixing'}
+{'Tip': 'To avoid lyrical monotony, live life', 'Date': '1/16/2021', 'Topic': 'Writing'}
+{'Tip': "Most beats don't have a bridge.", 'Date': '9/7/2021', 'Topic': 'Writing'}
 {'Tip': 'Loosely define your genre', 'Date': '1/11/2021', 'Topic': 'Tips'}
-{'Tip': 'The auto filter can be sidechained like many other stock plugins. Aka use this to only low cut your bass, perc etc. when the kick hits. Keeps the energy but removes weird phace issues.', 'Date': '9/7/2021', 'Topic': 'Ableton'}
-{'Tip': 'listen to tracks in multiple environments', 'Date': '1/16/2021', 'Topic': 'Tips'}
+{'Tip': 'POETRY GUIDE: https://files.eric.ed.gov/fulltext/ED304701.pdf', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Mixing: sometimes being "good enough" is okay.', 'Date': '2/11/2021', 'Topic': 'Mixing'}
+{'Tip': 'Panning the mids so as not to conflict with bass, snare and kick.', 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Percussion sounds can have more impact in a mix if they are dry. Especially if other sounds have reverb.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': "If you're not jamming, you're wasting time", 'Date': '1/4/2021', 'Topic': 'Creativity'}
 {'Tip': '1) Find an existing song that has a great “feel” and “groove”. This is important as you’re going to rely on this in step 2.; 2) Use that groove on loop to stimulate top line writing over the existing chord progression. Freestyle out a load of crap; 3) Take your brand new top lines and reharmonise/interpolate underneath in new and interesting ways.;', 'Date': '12/27/2020', 'Topic': 'Creativity'}
-{'Tip': "Avoid reverb on your kicks unless it's a special effect or the beginning of a breakdown.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
-{'Tip': 'I ain’t going to be talking sht about the next dude, or bragging about sht I got. I talk broke sht, I talk about sht I don’t got, or things I’m striving for. Say you’re speaking from a point of view where you’re talking to yourself, in maybe a sad mood. How do your tones come across? Can people feel what you’re saying? Can they hear what you’re saying? Are you well pronounced? Maybe you purposely were a little bit sloppy with it, to bring the point across. Can you bring the point across and still get the rhyme points? It’s like gymnastics on paper.', 'Date': '9/7/2021', 'Topic': 'Lyric Writing'}
-{'Tip': "If possible, play some parts by hand without quantizing. Ears perk up when they hear imperfect human playing (as long as it isn't way off of course).", 'Date': '9/7/2021', 'Topic': 'Writing'}
-{'Tip': 'Write every day', 'Date': '12/30/2020', 'Topic': 'Lyric Writing'}
+{'Tip': 'If your DAW has a "Freeze" function, freezing your tracks can free up your computer\'s CPU.', 'Date': '9/7/2021', 'Topic': 'Arrangement'}
+{'Tip': "You can't hear your sine wave bass on a phone but still want the soft nature of a clean sine wave sub? Put on an overdrive, set the band all the way to the left and adjust it til you have one or two harmonics. you can now hear it on a phone with no audable distortion (it will boost the bass a bit so turn it down after)", 'Date': '9/7/2021', 'Topic': 'Ableton'}
+{'Tip': 'MUSIC CHORD TRENDS: https://www.hooktheory.com/trends', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': 'Define your creative ritual.', 'Date': '12/30/2020', 'Topic': 'Creativity'}
+{'Tip': 'Use EQ to cut frequencies way more often boost', 'Date': '12/30/2020', 'Topic': 'Mixing'}
+{'Tip': "A long delay followed by a filter with an lfo sweeping frequencies can create great atmospheric extras to your music. This works best as a send/return track. You'll also want the low frequencies removed.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'VIDEO GAME MUSIC: https://www.vgmusic.com/', 'Date': '12/17/2020', 'Topic': 'Resource'}
+{'Tip': "When considering what to keep in a mix and what to chuck out, consider instruments in terms of frequency zones. If you have too many instruments in one zone and not enough in another, you might be able to solve both issures by playing an instrument in another octave. Other wise you need to either do some sound sculpting with EQ's, so each part has it's own small zone or get rid of the part.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': 'Rest your ears', 'Date': '11/29/2020', 'Topic': 'Tips'}
+{'Tip': 'Have extras of every cable', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': 'Touch your computer as little as possible', 'Date': '1/11/2021', 'Topic': 'Performance'}
+{'Tip': "Generally it's best to start with drums and bass and then slowly mix each partback in 1 at a time. If the groovbe is compromised or the bass loses it's punch, consider lowering, reworking or removing the part.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "For most sounds you add reverb to, you';; want a highpass filter to remove low frequency reverb. You want to keep those low frequencies as clean as possible.", 'Date': '9/7/2021', 'Topic': 'Mixing'}
+{'Tip': "If you're not stopping to enjoy your beat/riff/song, something is wrong.", 'Date': '2/11/2021', 'Topic': 'Writing'}
+{'Tip': 'USE REFERENCE TRACKS!!!!', 'Date': '12/30/2020', 'Topic': 'Workflow'}
